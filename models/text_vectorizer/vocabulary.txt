@@ -7,3470 +7,3505 @@ end of
 until end
 of turn
 target creature
-a card
 when this
+a card
 of your
 damage to
 at the
-your graveyard
 counter on
 creature enters
 your library
+your graveyard
 the battlefield
-a creature
-creature you
 a 11
+creature you
+a creature
 if you
 the beginning
 beginning of
-from your
 create a
 creature gets
-your hand
 draw a
 put a
+your hand
+from your
 this turn
-card from
-cast this
 number of
+card from
+on it
+cast this
 11 counter
 this spell
-on it
-this card
 you cast
-whenever this
 the top
-for each
-to the
+whenever this
 creature token
+to the
+for each
 or more
 creatures you
 counters on
 into your
 cant be
+this card
 whenever you
-sacrifice this
-t add
 equal to
 may cast
-you do
 you gain
 an opponent
-to its
-combat damage
+you do
 as a
-whenever a
+combat damage
+to its
 up to
-to cast
+whenever a
 11 counters
+on this
 mana value
 a player
-on this
 long as
-as long
 the number
-of the
+as long
+to cast
 that player
-creature deals
+of the
 enchanted creature
-to target
+creature deals
 put it
+to target
 onto the
 graveyard to
-x is
 creature cant
-this artifact
+x is
+end step
 its owners
 creature card
-end step
-to a
-where x
 an artifact
+to a
 on the
 be blocked
-this way
+where x
 gets 11
+this way
 that card
 creature attacks
-that creature
 your upkeep
+that creature
 this enchantment
 each creature
-this land
 destroy target
-enters you
 a sorcery
-may pay
-at the beginning of your upkeep
+enters you
 library for
-cast a
 each opponent
-is the
-creature with
+at the beginning of your upkeep
+may pay
+cast a
+activate only
 search your
-t sacrifice
-for its
+creature with
+is the
+only as
+any number
 with flying
 then shuffle
-enchant creature
-only as
-activate only
-in your
-a land
-as you
+for its
 the next
-1 life
 look at
-deals combat
+in your
 card of
-it into
-any number
+enchant creature
 two cards
-opponent controls
-mana cost
+deals combat
+it into
+as you
 cards of
-an additional
+a land
 top card
-mana of
 target player
-return target
-may put
+opponent controls
 token with
-discard a
+mana of
+an additional
+mana cost
+may put
+1 life
 to any
-cards from
-owners hand
-when you
-its mana
-equipped creature
-first strike
-creature dies
-any target
-control get
-of any
-cards in
-the bottom
-control enters
-exile it
-sacrifice a
-deals combat damage to a player
-one or
-2 life
-1 damage
-creature or
-11 until
-for a
-from the
-this token
+return target
+this artifact
 artifact creature
-enters with
-deals damage
+this land
+any target
+when you
+first strike
+control get
+its mana
+1 damage
+cards from
+cards in
+creature dies
+the bottom
+of any
+equipped creature
+11 until
 to one
-each player
+owners hand
+control enters
+one or
+deals combat damage to a player
+for a
+enters with
+exile it
+from the
+creature or
+2 life
+deals damage
 the rest
-to your
-or less
-one mana
-a spell
 it deals
+to your
+each player
+or less
 target artifact
-with a
 with mana
-choose one
-of their
-creature has
-the top card of your library
-as this
+a spell
+with a
 creature tokens
+one mana
+creature gains
+choose one
+the top card of your library
+of their
+control with
 on target
 and you
-creatures with
-creature gains
-to that
-land enters
-a 22
-less to
+creature has
 deals 1
-cast it
-if this
-target opponent
+as this
+creatures with
+discard a
+to that
+a 22
 would be
-put the
+cast it
+one target
 to each
-enters tapped
+sacrifice this
+target opponent
+put the
+if this
+or planeswalker
+land enters
 spell you
 player controls
-choose a
-from your graveyard to your hand
-if its
-copy of
 gets 22
-without paying
-where x is the number of
-or planeswalker
-from your graveyard to the battlefield
-paying its
-control with
-your turn
-one target
-put a 11 counter on this
-land card
 creature enchanted
 library you
+choose a
+from your graveyard to your hand
+put a 11 counter on this
+your turn
+if its
+where x is the number of
+copy of
+from your graveyard to the battlefield
+without paying
+land card
 gets 11 until end of turn
-a 11 counter on this creature
+exile target
+paying its
+enters tapped
 at the beginning of the next
+bottom of
+a 11 counter on this creature
 top of
 a copy
-each turn
-exile target
-bottom of
-if it
-any color
-if a
-flying whenever
-add one
-card put
 enters create
-add c
-another creature
+each turn
 three cards
 put that
-creature is
-flying when
-of target
+add one
+if it
+any color
+add c
 instant or
 or sorcery
-discard this
+sacrifice a
+of target
+if a
+card put
+less to
+creature is
+flying whenever
 next end
+two 11
+turn it
+flying when
+and put
 get 11
 turn you
-two 11
-their library
-and has
-turn it
 battlefield under
+their library
 rest on
-its an
 card with
-and put
-your opponents
-creature deals combat damage to a
+and has
 2 damage
-3 life
+your opponents
+it gains
+its an
 during your
 its controller
-hand then
-it gains
-control have
-a token
-of each
-in a
+creature deals combat damage to a
 library in
-battlefield tapped
-a permanent
-the beginning of the next end
-beginning of the next end step
-add one mana of any color
-your end
-any time
-the beginning of your end step
-gets 10
-at the beginning of your end
+control have
+hand then
+3 life
 an instant
+in a
+of each
+the beginning of the next end
+battlefield tapped
+beginning of the next end step
+a token
+any time
+your end
+the beginning of your end step
+another creature
+a permanent
+add one mana of any color
+becomes a
+at the beginning of your end
+this aura
+gets 10
 a graveyard
 you dont
-defending player
-each of
-of that
-may play
-control a
-becomes a
-from among
-face down
-deals 2
 sacrifice it
-of combat
-this aura
-artifact or
-that many
-with power
-creature an
-counter from
-cast an
+may play
 be dealt
-artifact with
-card from your graveyard to your
-power and
-remove a
-on the bottom of your library
-face up
-under your
-your control
-put into
-turn if
-control of
-its power
+cast an
+deals 2
+each of
+from among
+of combat
+defending player
+control a
+with power
+that many
 and gains
-unless you
+card from your graveyard to your
+on the bottom of your library
 creature gets 11 until end of
-exile the
-basic land
+face down
+power and
+of that
+creature an
+artifact or
+put into
+control of
+turn if
 11 white
-this creature deals combat damage to
+your next
+under your
 return this
+face up
+your control
+artifact with
 and toughness
 you draw
-creature and
-it at
-your next
+on each
+exile the
+its power
+unless you
+this creature deals combat damage to
 in addition
 addition to
-on each
-2 t
-exile this
-creature becomes
-cant block
+it onto
+it at
+basic land
+damage that
+creature and
+dealt to
+it to
 gain 1
 their hand
-it onto
-whenever this creature deals combat damage
-it to
-except by
+that would
+cant block
+it has
+and the
+a random
+target creatures
 or greater
 more creatures
+except by
 may choose
 random order
-a random
-dealt to
-target creatures
+creature becomes
 its a
-and the
-two or
-of a
-damage that
 counter target
-it has
-creature it
-target of
-t target
-if able
-the target
+whenever this creature deals combat damage
 nonland permanent
+two or
+the bottom of your library in
+opponent loses
+life and
+target of
 cant attack
 blocked except
-that would
-life and
-opponent loses
-land you
-the chosen
-from a
-blocked by
-the bottom of your library in
-card you
-damage equal
-token its
-gains haste
-from this
-you lose
-another target
-you may cast this card from
-all creatures
-1 less
-untap step
-1 t
-of them
+the target
+if able
 it if
-card in
-token thats
-whenever an
+of a
+gains haste
+the chosen
+damage equal
+blocked by
+card you
+another target
+it put
+you lose
 sorcery spell
-it gets
-thats a
-control to
-their choice
-that creatures
-to two
-enchantment enters
-put a 11 counter on target
-creature cards
-enters if
-on top
-22 until
-reveal it
-card draw
-card from your graveyard to the
-the rest on the bottom of
-whenever another
-hand and
-3 damage
-target permanent
 only once
-it cant
+untap step
+to two
+creature it
+22 until
+of them
+all creatures
+token its
+you may cast this card from
+this vehicle
+land you
+it gets
+token thats
+the rest on the bottom of
+enchantment enters
+from a
+whenever an
+target permanent
+put a 11 counter on target
+thats a
+card in
+their choice
+of creatures
+hand and
+creature cards
+counter from
+3 damage
+on top
+reveal it
+card from your graveyard to the
 rest on the bottom of your
+that creatures
+enters if
+remove a
+protection from
+whenever another
+it cant
 that spell
-graveyard for
+this token
+you get
+it and
+gain 2
 this ability
 for the
-protection from
-when this creature enters you may
-as an
-a nonland
-10 until
-it put
-spell costs
-may cast this card from your
-opponents control
+once each
+create two
 its other
-it and
-each other
-with the
-untap during
-gain 2
 creature this
-nonland card
+opponents control
+haste until
 gets 20
+creature until
+a nonland
+each other
+10 until
+untap during
+as an
+when this creature enters you may
+player or
+may cast this card from your
+3 or
+with the
+spell costs
+nonland card
 those cards
 target spell
-that much
-one of
-haste until
 spell this
-x 11
-they control
-player or
-if that
-create two
-leaves the
-11 and
 as though
-two target
-once each
-you have
-permanent you
-x cards
-from it
-then put
-may have
-3 or
-it instead
-may sacrifice
-dealt damage
-look at the top card of
-deals 3
-a token thats a copy of
-draw two
-dont control
-a 11 counter on target creature
-to you
-step if
-gain 3
-creature that
-cost if
-cast this card from your graveyard
-library until
-attached to
-of those
-may reveal
-enters choose
-card then
-attacks you
-you get
-with a 11 counter on it
-library then
+one of
 card this
+two target
+they control
+graveyard for
+11 and
+that much
+leaves the
+if that
+deals 3
+1 less
+you have
+next turn
+may sacrifice
+look at the top card of
+draw two
+card then
+dont control
+then put
+to you
+may reveal
+from it
+x 11
+attacks you
+other creatures
+dealt damage
+attached to
+may have
+a 11 counter on target creature
+permanent you
+gain 3
+among them
+step if
+library until
+creature that
+a token thats a copy of
+x cards
+it instead
 tap target
 in any
-create a token thats a copy
-of creatures
-creature when
 combat on
-among them
-cost to
-a basic
-whenever one
-discard this card draw a card
+cast this card from your graveyard
+library then
+2 or
+with a 11 counter on it
 on your
-creature can
-additional cost
-other types
-of cards
+of those
 only if
-enters put
+enters choose
+whenever one
+create a token thats a copy
+of cards
+creature when
+creature can
+cost if
+treasure token
+player discards
+at the top card of your
 at the beginning of combat on
 a treasure
-player discards
-treasure token
-gets 22 until end of turn
-enters target
-next turn
-your library in a random order
-put it into your hand then
-other creatures
+other types
 of your library in a random
-it face
 bottom of your library in a
-at the top card of your
-put two
-as an additional cost to cast
-the beginning of combat on your
-it into your hand then shuffle
-beginning of combat on your turn
-amount of
-the exiled
-target attacking
+gets 22 until end of turn
 card if
+your library in a random order
+enters put
+control to
+a basic
+additional cost
+the beginning of combat on your
+damage that would be dealt to
+beginning of combat on your turn
 the game
-on a
-artifact you
-you pay
+enters target
+cost to
+put two
+cards then
+put it into your hand then
+target nonland
+life equal
+it face
+the exiled
+amount of
+target attacking
+it into your hand then shuffle
+x damage
+return it
+gain life
+as an additional cost to cast
+top card of your library you
+put the rest on the bottom
 power to
 double strike
-target nonland
-return it
-damage that would be dealt to
-2 2
-x damage
-spell or
-life equal
-22 creature
-gain life
+spent to
+graveyard from
+flying until
+destroy all
+card and
+target land
+card of your library you may
+from this
+you pay
+hand if
+owners control
+turn this
+then exile
 card for
+them into
+pay if
+22 creature
+spell or
+it for
+dies you
+as it
+you own
+strike until
+on a
+gets 10 until end of turn
 an additional cost to cast this
 additional cost to cast this spell
-then exile
-card and
-hand if
-gets 10 until end of turn
-cards then
-2 or
-put the rest on the bottom
-owners control
-graveyard from
-exile a
-destroy all
-as it
+with total
 time for
-spent to
-top card of your library you
-target land
-up any
-it unless
-it for
-face up any time for its
-dies you
-you own
-this equipment
-them into
-this card from your graveyard for
-attacking creature
-artifact enters
-turn it face up any time
-permanents you
-it face up any time for
-card of your library you may
-other than
-creature until
-reveal a
-t add one mana of any
-rather than
-or a
-strike until
-the first
-spells or
-card reveal
-this vehicle
 this card from your graveyard to
 return this card from your graveyard
+prevent all
+flying this
+up any
+indestructible until
+face up any time for its
+then discard
+reveal a
+becomes an
+it unless
+gains flying
+11 colorless
+this creature gets 11 until end
+turn it face up any time
+other than
+or a
+it face up any time for
+attacking creature
+spells or
+less from
+is put
+creature to
+card reveal
+turn where
+permanents you
 from the top of your library
-flying until
-the copy
+the first
 hand you
 creature if
-pay an
-is put
-there are
-then you
-less from
-into a
-creature to
-and exile
 any order
-then discard
-of 11
-deals x
-creature cant be blocked except by
-turn where
-prevent all
-card from your graveyard for its
-base power
-spells you
-for as
-gains flying
-was kicked
-this creature cant be blocked except
-or another
-put a 11 counter on each
-player you
-4 or
 your choice
-until end of turn where x
-four cards
-end of turn where x is
-creatures power
-costs 1
-to their
-a noncreature
-this creature gets 11 until end
-spell if
-into their
-control and
+into a
+deals x
+artifact enters
+put a 11 counter on each
+of 11
 11 green
-tapped and
+total power
+the copy
+until end of turn where x
+end of turn where x is
+creature cant be blocked except by
+then you
+four cards
+a noncreature
+4 or
+there are
+control this
+base power
+artifact you
 noncreature spell
+this creature cant be blocked except
+for as
+pay an
+card from your graveyard for its
+you may pay if you do
+this equipment
+it becomes
+gain control
+creatures power
+rather than
+discards a
+spells you
+player you
+or another
+into their
+exile a
+reveal the
+cards of your library you may
+battlefield then
+turn target
+tapped and
+library put
+and exile
+trample until
+control and
+this card from your graveyard for
+spell if
 it put it into your hand
-11 colorless
 the same
 reveal it put it into your
-or enchantment
-it becomes
-discards a
-loses 1
-tapped t
-or creature
-creature card from your graveyard to
-blocked as
-cast for
 put a 11 counter on it
 new targets
-more cards
-may search
-is a
-in addition to its other types
-control this
-hand put
-gain control
-can block
-with 2
-targets for
-of spells
 may return
+is a
+creature card from your graveyard to
+to their
+targets for
+scry 1
+of spells
 choose new
-creature for
-becomes the
-pay 2
-creature type
-cards of your library you may
-reveal the
-battlefield then
+can block
 with this
-pay 1
-library put
+was kicked
+or enchantment
+may search
+loses 1
+creature gets 22 until end of
+blocked as
+upkeep you
+in addition to its other types
+creature type
+more cards
 card put it onto the battlefield
 card into
-attach to
-upkeep you
-tapped then
-scry 1
+exile this
+creature for
+or creature
 doesnt untap
-control equip
-card face
-spell each
-search your library for a basic
 player may
+tapped then
+becomes the
+be the
+of your library you may put
+attach to
+tokens with
 the other
+search your library for a basic
+player loses
+from their
+under its
+those creatures
+blocked this
+spell each
 may exile
 down as
-be the
-attach to target creature you control
-trample until
-those creatures
-spell for
-indestructible until
-face down as a 22 creature
-counters from
-under its
+card face
 sacrifices a
-player loses
-for 3
-sacrifice another
+face down as a 22 creature
+control equip
+attach to target creature you control
 creature spell
-of your library you may put
-in the
-damage equal to its power to
 this creature deals 1 damage to
-from their
-this mana
-each card
+spell for
+damage equal to its power to
 permanent card
-or ability
-enters exile
-creature gets 22 until end of
-to it
-their owners
-by creatures
-blocked this
-becomes blocked
-and attacking
-you may choose new targets for
-onto the battlefield tapped then shuffle
-less than
-lands you
-each combat
-control dies
-tokens with
-the player
-enters or
-2 sacrifice
-if the
-can be
-top two
-sorcery card
-has flying
-deals damage equal to its power
-card is
-flashback cost
-three or
-4 damage
-or abilities
-may choose new targets for the
 its controllers
-if an
-equip 2
-cost then
-turn target
-damage this
-card to
-20 until
-it when
-aura enters
+you may choose new targets for
+lands you
+in the
+by creatures
+4 damage
+top two
+enters exile
+each card
+control dies
+and attacking
+has flying
+costs 1
+card is
 turn whenever
-you may cast this card face
-with t
-to target creature you control equip
-may cast this card face down
-22 and
-t this
-spell from
-gains flying until end of turn
-2 discard
-library for a basic land card
-enters put a 11 counter on
-card onto
-enters it
-black zombie
-put an
-time you
-target creature card from your graveyard
-card reveal it put it into
-you choose
-its flashback
-enters draw
-you control equip only as a
-turn this
-token its an artifact with 2
-spell with
-put one
-gets 33
-equip only
-control equip only as a sorcery
-and put it into your hand
-an enchantment
-your graveyard for its flashback cost
-it at the beginning of the
-from your graveyard for its flashback
-creature gets 10 until end of
+or ability
+to it
+this mana
+the player
+for 3
+tap any
+onto the battlefield tapped then shuffle
+enters or
+becomes blocked
+three or
+tapped add
+each combat
+deals damage equal to its power
+less than
+20 until
+their owners
+sorcery card
+power 2
+may choose new targets for the
 control gain
-xx until
-target creature you control equip only
-gains haste until end of turn
-creature you control equip only as
-11 for
-exiled with
-and it
-turn for
-the battlefield under its owners control
-sacrifice an
-land cards
-gains trample
-to the battlefield under its owners
-this land enters tapped t add
-the creature
-deals 4
-control gets
-card at
-at random
-add g
-their graveyard
-much life
-its flashback cost then exile it
-graveyard for its flashback cost then
-for its flashback cost then exile
-would deal
-cards from the top of your
-a number
-combat if
-cast spells
-and each
-when this creature enters create a
-token you
+cast for
+and put it into your hand
+time you
+if an
+or abilities
+flashback cost
+aura enters
+it when
+22 and
+spell from
+if the
+enters it
 three 11
-then draw
-combat damage to a player you
-1 look
-though it
-draw step
-deals 1 damage to any target
-cant be blocked as long as
-the greatest
-player sacrifices
-haste whenever
-artifact creatures
-with two
-flying and
-a color
-whenever you cast a noncreature spell
-value 3
-the top two cards of your
-it whenever
-becomes an
-a 00
-spells mana
-copy it
-with total
-spirit creature
-return a
-player mills
-cast an instant or sorcery spell
-upkeep if
-a time
-10 and
+damage this
+black zombie
+gains flying until end of turn
 1 or
 until your
+cost then
+card to
+card onto
+put an
+gets 33
+to target creature you control equip
+library for a basic land card
+can be
+you may cast this card face
+xx until
+may cast this card face down
+gains trample
+enters draw
+deals 4
+you choose
+would deal
+put one
+enters put a 11 counter on
+card reveal it put it into
+target creature card from your graveyard
+it at the beginning of the
+gains haste until end of turn
+equip 2
+flying and
+deals 1 damage to any target
 turn activate
-trample whenever
-top two cards of your library
-get 10
-casts a
-add r
-ability triggers
-whenever a land you control enters
-the beginning of your upkeep you
-t put
-pay its
-all damage
-your library for a basic land
-token add
-time counter
-first strike until end of turn
-return up
-power 2
-only during
-11 red
-1 less to cast for each
-creature put
-beginning of your end step if
-as defending
-1 look at the top card
-value x
-turn create
-soldier creature
-of turn where x is the
-next untap
-it enters
+land cards
 has no
-cards with
-blocked as long as defending player
-be blocked as long as defending
-as long as defending player controls
+creatures you control with total power
+creature gets 10 until end of
+and it
+you control equip only as a
+the creature
+its flashback
+exiled with
+equip only
+control equip only as a sorcery
+all damage
+a number
+11 for
+the battlefield under its owners control
+more this
+your graveyard for its flashback cost
+to the battlefield under its owners
+target creature you control equip only
+only during
+from your graveyard for its flashback
+creature you control equip only as
+an enchantment
+their graveyard
+spell with
+1 look
+value 3
+upkeep put
+turn for
+then draw
+player mills
+cast an instant or sorcery spell
+soldier creature
+hand put
+control gets
+cards from the top of your
+spirit creature
+cast spells
+and each
+whenever you cast a noncreature spell
+the top two cards of your
+player sacrifices
+its flashback cost then exile it
+it this
+graveyard for its flashback cost then
+for its flashback cost then exile
+draw step
+a 00
+when this creature enters create a
+turn create
+much life
+copy it
+get 10
+cant be blocked as long as
+10 and
+though it
+the beginning of your upkeep you
+haste whenever
+combat if
+a 33
+top two cards of your library
+the beginning of your upkeep put
+card at
+11 red
+whenever a land you control enters
+vehicle becomes
+upkeep if
+the greatest
+of turn where x is the
+counters from
+combat damage to a player you
+artifact creatures
+a color
+return up
+it whenever
+pay its
+first strike until end of turn
+casts a
+at random
+trample whenever
+2 draw
+control deals
+ability triggers
+your library for a basic land
 target instant
-enters and
-until you
-nontoken creature
 gets xx
 dies create
-card on
-is dealt
 exile the top card of your
-becomes the target of a spell
-attacks each
-among cards
-a 33
-this spell costs 1 less to
-spell costs 1 less to cast
-control deals
+cards with
+as defending
+add g
+a time
+blocked as long as defending player
+beginning of your end step if
+be blocked as long as defending
+as long as defending player controls
+1 look at the top card
+nontoken creature
+next untap
+enters and
+card on
 cant be the target of spells
-3 t
-time counters
-enters return
-flying this
-your draw
-upkeep put
+among cards
+a 44
+until you
+this creatures
+during its
+becomes an artifact creature until end
+an artifact creature until end of
+value x
+time counter
 target card
+exile up
+choose target
+with two
+turn put
+is dealt
+into your hand put the rest
+becomes the target of a spell
+be the target of spells or
+22 black
+your draw
+life for
+is equal
+gains first
+enters return
+cast that
+block this
+attacks each
+to this
+this vehicle becomes an artifact creature
+regenerate this
+loses 2
+it enters
+the target of spells or abilities
+spells mana
+put them
+creature blocks
+control an
+that damage
+player draws
 landfall whenever a land you control
 landfall whenever
-during its
-creature blocks
-choose target
-a food
-to this
-this creatures
-the target of spells or abilities
-life for
-it was
-cast that
-be the target of spells or
-token draw
-that damage
-it without
-it this
-is equal
-creatures get
-control an
-x life
-total power
-exile up
-can have
+2 you
 you may search your library for
-this permanent
-on it at the beginning of
-it without paying its mana cost
-graveyard you
-cost 1
+x life
+return a
+of your library in any order
+gains indestructible
+creatures get
+many cards
+hand onto
+do draw
 controls a
+with three
+on it at the beginning of
+four or
+each equal
+controller pays
+can have
 by two
-block this
-a 44
-22 black
+untap target
 the top of your library until
 return target creature card from your
-many cards
-four or
-do draw
-you control to its owners hand
-ward 2
-the beginning of your upkeep put
-player draws
-loses 2
-into your hand put the rest
+graveyard you
+with add
+it was
+draw a card then discard a
+deal damage
+creature put
+xx until end of turn where
+vehicle becomes an artifact creature until
 top of your library until you
+them onto
+a card then discard a card
+put it onto the battlefield tapped
+play that
+it without
 destroy it
-a tapped
-with three
-3 turn
-this saga
-this card face down as a
-put them
-of your library in any order
-hand onto
-for 3 turn it face up
+a food
+you discard
+time counters
+spend this
 except by two or more creatures
+cant be blocked except by two
+can attack
+blocked except by two or more
+be blocked except by two or
+artifact card
+a tapped
+this saga
+put target
+or less from your graveyard to
+it without paying its mana cost
+it at the beginning of your
+if there
+this card face down as a
+life this
+for 3 turn it face up
 down as a 22 creature for
 creature for 3 turn it face
 cast this card face down as
 card face down as a 22
-cant be blocked except by two
-blocked except by two or more
-be blocked except by two or
 as a 22 creature for 3
-add b
 a 22 creature for 3 turn
 3 turn it face up any
+3 turn
 22 creature for 3 turn it
-spend this
-sacrifice this token draw a card
-put it onto the battlefield tapped
-it at the beginning of your
-if there
-each equal
-can attack
-other creature
-age counter
-a clue
-you discard
-owners library
-of it
-gains first
-deal damage
-cast it without paying its mana
-xx until end of turn where
-whenever equipped
-put target
+ward 2
+turn and
+this permanent
 may draw
 gets 20 until end of turn
-create x
-add u
-turn and
-them onto
-play that
-exiled card
-costs 1 less to cast for
-turn put
-regenerate this
-damage to a player you may
-controller pays
-you tap
-or less from your graveyard to
-from exile
-you exile
-you attack
-spell that
-of permanents
-gain that
-artifact card
-a legendary
-with mana value 3 or less
-scry 2
-get 11 until end of turn
-attacks it
+get an
+add r
+1 less to cast for each
 your hand put the rest on
-the beginning of your upkeep if
-spell was
-mana only
-life this
+you attack
+with mana value 3 or less
+top three
+other creature
 hand put the rest on the
-untap target
-pays for
-for 1
-when the
-that players
-draw a card then discard a
-an island
-a card then discard a card
-upkeep sacrifice
-the target of a spell or
-target of a spell or ability
-gets xx until end of turn
-five cards
-creature whenever
-creature of
-cards put
-only to
-from your hand onto the battlefield
-exiled this
-draw three
-control then
-card exiled
-and gain
-4 life
-you can
-with it
+age counter
+owners library
+of it
+get 11 until end of turn
+create x
+whenever equipped
+number of creatures you control with
+exiled card
+unless its
 turn untap
 turn draw
-t tap
-t discard
-library if
-legendary creature
-except its
-control if
-unless its
-top three
-t exile
-gains trample until end of turn
-enters each
-dealt by
+scry 2
+gets xx until end of turn
+from exile
+attacks it
+any number of creatures you control
+and gain
+spell that
+damage to a player you may
 control gains
-this creature gets 10 until end
-lore counter
-draws a
-cast cost
-toughness are
-to activate
-each artifact
-choose new targets for the copy
-be regenerated
-at end
-untap this
-or attacks
-charge counter
-blocking creature
-types among
-triggers only
+you tap
+the beginning of your upkeep if
+five cards
+cast it without paying its mana
+cards put
+a clue
+you exile
+this spell costs 1 less to
+spell costs 1 less to cast
+mana only
+exiled this
+draw three
+with it
+gain that
+from your hand onto the battlefield
+a legendary
+tap any number of creatures you
+of creatures you control with total
+except its
+upkeep sacrifice
+until end of turn activate only
+spell was
+gains trample until end of turn
+that players
+pays for
+only to
+library if
 gains first strike until end of
-do return
-deals 2 damage to any target
-creatures andor
-are each
-zombie creature
-power and toughness are each equal
-it onto the battlefield tapped then
-gains indestructible
-cycling 2 2 discard this card
-cycling 2
-beginning of your upkeep you may
-and toughness are each equal to
-2 discard this card draw a
-2 2 discard this card draw
-you sacrifice
+creature of
+1 draw
 still a
 it you
-creature target
-creature at
-copy that
-5 damage
-exiled cards
-add w
-a lore
-return it to the battlefield under
-enchantment you
-cards and
-this ability triggers only once each
-t remove
-put any
-ability triggers only once each turn
+it from
+creature whenever
+4 life
+toughness are
+the target of a spell or
+target of a spell or ability
+of permanents
+legendary creature
+draws a
+dealt by
+untap this
+or more this vehicle becomes an
+more this vehicle becomes an artifact
+enters each
+deals 2 damage to any target
+card exiled
+beginning of your upkeep you may
+you can
+this creature gets 10 until end
 them and
-flying vigilance
-creatures that
-creature doesnt
-with x
-than pay
-morph cost
-life total
-into your hand and the rest
-exile this card from your graveyard
-exile all
-and haste
+gains indestructible until end of turn
+for 1
+control then
+control if
+are each
+zombie creature
+you sacrifice
+you control to its owners hand
 with an
+power and toughness are each equal
+card has
+and toughness are each equal to
+when the
+or attacks
+lore counter
+into your hand and the rest
+creatures that
+cast cost
+be regenerated
+an island
+abilities of
+triggers only
+target players
+and haste
+top four
+put any
+creatures andor
+copy that
+blocking creature
+at end
+types among
+the sacrificed
+it onto the battlefield tapped then
+have this
+exiled cards
+choose new targets for the copy
+5 damage
+creature doesnt
+cards and
+add b
+return it to the battlefield under
+life total
+c add
+this ability triggers only once each
 then if
+get 22
+exile all
+enchantment deals
+could cast
+ability triggers only once each turn
+a planeswalker
+a lore
 the end
 that permanent
-into the
-for up
-do put
+power 4
+of your library you may reveal
+of up
+graveyard this
+enchantment you
+elemental creature
+each artifact
+creature at
+cost 1
+control attacks
+add u
+graveyard and
+costs 1 less to cast for
+at the top two cards of
+and the rest on the bottom
+you could
+spells from
+is an
+do return
 deals 5
-creature leaves
+for up
 creature cant be blocked as long
-choose any
+than you
+seven or
+no color
+morph cost
+look at the top two cards
+life you
+its still
+into the
+enters with a 11 counter on
+creature leaves
 card types
 by this
 block creatures
 up any time for its morph
-than you
-target players
-pay this
-its morph
-it on
-is an
-get 22
-enchantment deals
-control that
-control attacks
-any time for its morph cost
-and the rest on the bottom
-and a
-2 less
-until end of turn activate only
-top four
+time you could cast an instant
 this creature cant be blocked as
-may cast it without paying its
-its still
-it from
-at the top two cards of
-after your
-this spells
-the last
-target enchantment
-spells from
-seven or
-sacrifice after
-lose 1
-have this
-flash when
-equipment enters
-enters with a 11 counter on
-do create
-player casts
-later turn
-is put into a graveyard from
-elemental creature
-creature destroy
-a later
-a forest
-of its
-look at the top two cards
-graveyard this
-graveyard and
-a planeswalker
-a nontoken
-until end of turn for each
-token add one mana of any
-the form
-power is
-power 4
-poison counters
-of up
-mana costs
-form of
-each players
-abilities of
-turned face
-trample and
-this token add one mana of
-the sacrificed
-spend this mana only to cast
-spell sacrifice
-sacrifice this token add one mana
-or put
-of your library you may reveal
-life you
-it had
-if you do draw a card
-from anywhere
-a dragon
-you may cast it without paying
-x target
-token its an artifact with t
 put it into your hand put
-may tap
-it into your hand put the
-gains indestructible until end of turn
-creatures controller
-clue token
-cards you
-card has
-by a
-attacked this
-and cant
-and after
-while casting
-turn where x is the number
-return that
-put x
-put into a graveyard from the
-into a graveyard from the battlefield
-creature on
-c t
-attacking creatures
-with t sacrifice this token add
-trample when
-tap any
-saga enters
-put that card onto the battlefield
-damage dealt
-could cast
-all combat
-activated abilities
-you could
-warrior creature
-toughness are each equal to the
-top x
-t sacrifice this token add one
-paid with
 onto the battlefield under your control
-much damage
-long as defending player controls a
-it would
-choice of
-cards exiled
-among creatures
-all other
-add a
-a swamp
-your draw step add a lore
-this saga enters and after your
-step add
-saga enters and after your draw
-reveals their
-on that
-equip 3
-enters and after your draw step
-draw step add a lore counter
-dies if
-be paid
-as this saga enters and after
-and after your draw step add
-after your draw step add a
+lose 1
+its morph
+it into your hand put the
+flying vigilance
+control that
+choose any
+cards you
+any time you could cast an
+an emblem
+with x
 top four cards of your library
 the top four cards of your
-step add a lore counter sacrifice
-may discard
-exile cards
-counter sacrifice
-cards are
-an aura
-add a lore counter sacrifice after
-whenever this creature attacks you may
-time you could cast an instant
-than or
-player reveals
-or equal
-opponent discards
-is turned
+target enchantment
+poison counters
+it on
+is put into a graveyard from
+from anywhere
+emblem with
+do put
 creature gains flying until end of
-counter on target creature you control
-any time you could cast an
-you may cast this spell for
-the top card of their library
-players graveyard
-may cast this spell for its
-it to the battlefield under its
-a source
+any time for its morph cost
+after your
+with add one mana of any
+turn where x is the number
 top three cards of your library
-to three
 the top three cards of your
-each equal to the number of
-creature also
-artifact with t sacrifice this token
-an artifact with t sacrifice this
-11 black
-you create
-upkeep remove
-t create
-spell pays
+sacrifice an
+sacrifice after
+may tap
+equipment enters
+all combat
+a nontoken
+trample and
+power is
+player casts
+flash when
+charge counter
+the form
+spend this mana only to cast
+spell sacrifice
+pay this
+later turn
+form of
+attacked this
+and a
+a later
+until end of turn for each
+sacrifice another
+put x
+put that card onto the battlefield
 put it onto the battlefield then
-may search your library for a
-graveyard if
-energy counters
-deals that
-creature then
-counters on it at the beginning
-control at
-cards of your library then put
-an opponents
-a charge
-with 2 sacrifice this token draw
-the beginning of your upkeep remove
-or land
-help cast
-food token
-control with a 11 counter on
-can help
+if you do draw a card
+each players
+cards exiled
+a forest
+a dragon
+x target
+put into a graveyard from the
+or put
+of its
+may cast it without paying its
+it had
+into a graveyard from the battlefield
+creatures controller
 artifact creature until end of turn
-20 and
-2 sacrifice this token draw a
-sacrifice it unless you pay its
-revealed this
-creature becomes the target of a
-control whenever
+all other
+activated abilities
+turned face
+toughness are each equal to the
+to activate
+on that
+much damage
+may discard
+mana costs
 control becomes
-combat damage that would be dealt
-be countered
-x or
-t draw
-prevent the
-permanent or
-no color
-less from your graveyard to the
-its an artifact with 2 sacrifice
-graveyard create
-devoid this card has no color
-devoid this
-creature would
-attach this
-artifact with 2 sacrifice this token
-are each equal to the number
-an artifact with 2 sacrifice this
+and cant
+and after
+11 black
+trample when
+step add
+return that
+long as defending player controls a
+cards are
+by a
+while casting
+to three
+the last
+saga enters
+it would
+controllers next
+clue token
+choice of
+attacking creatures
+all damage that would be dealt
+20 and
+top x
 spell unless
-same name
+prevent the
+opponent discards
 of your library you may play
 it onto the battlefield then shuffle
-has trample
-clue token its an artifact with
-all damage that would be dealt
-a clue token its an artifact
-33 until
-while casting this spell pays for
-was spent
+do create
+defender this
+damage dealt
+creature would
+creature on
+control at
+an aura
+add a
+a source
+your draw step add a lore
+warrior creature
+this saga enters and after your
+than or
+saga enters and after your draw
+or equal
+exile cards
+enters and after your draw step
+each equal to the number of
+draw step add a lore counter
+dies if
+and after your draw step add
+after your draw step add a
+you may cast it without paying
+step add a lore counter sacrifice
+reveals their
+counter sacrifice
+as this saga enters and after
+add a lore counter sacrifice after
+than pay
+may search your library for a
+it to the battlefield under its
+it it
+deals that
+counter on target creature you control
+combat damage that would be dealt
+whenever this creature attacks you may
+upkeep remove
+the top card of their library
+player reveals
+permanent or
+is turned
+gain haste
+cycling 2
+creature activate
+cards of your library then put
+all cards
+a swamp
+you may cast this spell for
+you create
+trample this
+the beginning of your upkeep remove
+revealed this
+players graveyard
+may cast this spell for its
+graveyard if
+creature also
+counters on it at the beginning
+be countered
+after this
+add w
+with draw
 other target
-its an artifact with t sacrifice
-is removed
-in their
-in hand
-enters look
-do this
-create a clue token its an
-controllers untap
-controllers next
-casting this spell pays for 1
-casting this
-card when
-as you cast this spell if
-ability an
-11 counter on target creature you
-white spirit
-the monarch
-the amount
-r this
-put this
-nonland permanents
 more than
-enters you may search your library
+less from your graveyard to the
+creature gets 20 until end of
+control with a 11 counter on
+are each equal to the number
+among creatures
+33 until
+x or
+white spirit
+spell pays
+sacrifice it unless you pay its
+or land
+library you may put that card
+creature then
+controllers untap
 cards equal
-card whenever
+an opponents
+token for
+this spells
+the amount
+in their
+help cast
+food token
+energy counters
+can help
 and sorcery
-an untapped
+was spent
+put that card into your hand
+in hand
+equip 3
+creature becomes the target of a
+control whenever
+an army
+all combat damage that would be
+2 less
+top five
+though they
+same name
+player that
+devoid this card has no color
+devoid this
+card when
+card from your hand onto the
+abilities your
+you would
+reveal the top card of your
+its an artifact with draw a
+it as
+for a basic land card put
+enters you may search your library
+cant cast
+beginning of your upkeep remove a
+an artifact with draw a card
+11 counter on target creature you
+you win
+you cant
+while casting this spell pays for
+until end of turn target creature
+token then
+token its an artifact with draw
+token its an artifact with add
+they gain
+nonland permanents
+library into
+has trample
+enters this
+enters look
+clue token its an artifact with
+casting this
+by artifact
+battlefield this
+attack or
+ability an
+a clue token its an artifact
+your library you may put that
+the monarch
+search your library for a card
+prevent all combat damage that would
+of this
+it remove
+instant and
+have no
+creatures in
+creates a
+create a clue token its an
+cost put
+card whenever
+at least
+and draw
+all abilities
 a spell or ability an opponent
 when this creature enters put a
-top five
-token for
 spell or ability an opponent controls
-put that card into your hand
-of this
-library you may put that card
-its attacking
-for a basic land card put
-flash you
-creature gets 20 until end of
-chosen type
-beginning of your upkeep remove a
-an army
-all abilities
-1 sacrifice
-turn that
-reveal the top card of your
-life if
-library into
-into its
-card from your hand onto the
-cant cast
-by artifact
-attack or
-all combat damage that would be
-all cards
-you win
-token then
-search your library for up to
-search your library for a card
-player that
-enters this
-defender this
-creates a
-until this
-roll a
-or one
-gain haste
-creatures in
-creatures can
-creature without
-cost put
-control when
-can help cast this spell each
-after this
-abilities your
-trample this
-that targets
-opponent sacrifices
-more this
-instant and
-creatures you control with total power
-creature activate
-cost when
-cost to cast this spell sacrifice
-battlefield this
-battlefield if
-your library you may put that
-you would
-vehicle becomes
-prevent all combat damage that would
-or block
-may look
-it as
-isnt a
-have no
-dies put
-creature spells
-at least
-vigilance whenever
-top five cards of your library
-then return
-the top five cards of your
-name as
-many 11
-enters tap
-creatures your
-cost for
-and its
-and draw
-you cast an instant or sorcery
-with 2 t sacrifice this token
-turn exile
-this creature enters put a 11
+put this
 or player
-more to
+its attacking
+flash you
+do this
+casting this spell pays for 1
+card named
+an untapped
+that targets
+search your library for up to
+into its
+deal combat
+creature without
+chosen type
+battlefield if
+attach this
+you cast an instant or sorcery
+turn that
+turn exile
+top five cards of your library
+the top five cards of your
+rest into
+or block
+opponent sacrifices
+cost when
+as you cast this spell if
+5 or
+until this
+token you
+then return
+roll a
+prevent all damage that would be
+may look
+many 11
+is removed
+from among them and put it
+creatures can
+creature target
+can help cast this spell each
+and its
+with 2
+this creature gets 22 until end
+seven cards
+opponent casts
+next time
+it then
+isnt a
+for an
+exile that
+enters tap
+dies put
+damage to target player or planeswalker
+creature spells
+cost to cast this spell sacrifice
+a charge
+a 11 counter on each creature
+vigilance whenever
+surveil 1
+create three
+cost for
+as long as you control a
+artifact with add one mana of
+your untap
+them and put it into your
+target creature gets 22 until end
+permanent with
+name as
 land becomes
+cards mana
+are four
+among them and put it into
+white soldier
+when it
+this creature enters put a 11
+they cant
+or one
 iii i
 flying at
-exile that
 each kind
-deal combat
+damage to a player that player
+creatures your
 creature enters put a 11 counter
-are four
-after iii
-1 if
-you cant
-when it
-to x
-they cant
-than pay this spells mana cost
-target creature gets 22 until end
-rather than pay this spells mana
-it then
-investigate create
 cast the
-b or
-at the beginning of each players
-as long as you control a
-any amount
-5 or
-2 whenever
-your untap
-unless that
-this creature becomes the target of
-t pay
-permanent with
-opponent casts
-it it
-charge counters
-4 t
+card from among them and put
+after iii
 whenever you cast an instant or
-top x cards of your library
-the top x cards of your
-the mana
-surveil 1
-investigate create a clue token its
-flying trample
-enchant creature when this aura enters
-create an
-cards mana
-card named
-artifacts you
-3 as
-whenever enchanted
-though they
-they gain
+unless that
+turn put a 11 counter on
+to x
 return all
-rest into
-last is
+lifelink until
 gets x0
-for an
-cast if
+control when
+control get 11 until end of
+beginning of your upkeep put a
 attacks if
-a background
-x where
-without flying
-the beginning of your upkeep sacrifice
-r or
+at the beginning of each players
+any amount
+and only
+an artifact with add one mana
+among any
+2 whenever
+this creature becomes the target of
 its toughness
-from among them and put it
-creature create
+investigate create
+create an
 cant be blocked except by artifact
 be blocked except by artifact creatures
-among any
+attacks create
+22 white
+whenever enchanted
+top x cards of your library
+the top x cards of your
 spells or abilities your opponents control
-next time
-lifelink until
-get an
-damage to target player or planeswalker
-damage to a player that player
+spell create
+power 3
+enchant creature when this aura enters
 damage by
-creature put a 11 counter on
+and have
+top card of your library if
+tokens you
+the beginning of your upkeep sacrifice
+spell put
+spell cant
+reach this
+player shuffles
+investigate create a clue token its
+blocked except by artifact creatures andor
+artifacts you
+a background
+you to
+you control deals combat damage to
+without flying
+spell any
+planeswalker you
+has base
+gets 30
+flying trample
+do you
+deals 3 damage to any target
+counters are
 counter of
 cards into
-attacks create
-a 11 counter on each creature
-22 white
-you to
-you cast cost 1 less to
-spell any
-gets 30
-do you
-counters are
-cast cost 1 less to cast
-card without paying its mana cost
 card without
-blocked except by artifact creatures andor
-and have
 with x 11 counters on it
-u or
-turn put a 11 counter on
-this effect
-them and put it into your
-stun counter
-seven cards
-prevent all damage that would be
-player shuffles
-mana abilities
-has base
-exile this card from your hand
+treasure tokens
+life if
+creature gets xx until end of
 controls until
-control get 11 until end of
-becomes an artifact creature until end
-an artifact creature until end of
-among them and put it into
-a stun
+control you
+card without paying its mana cost
+bottom of your library in any
+be put
+be paid
+then that
+put three
+paid with
+of spells or abilities your opponents
+of mana
+land card put it onto the
+its an artifact with add one
+it gains haste until end of
 your second
 you reveal
 would die
-with two 11 counters on it
-w or
-top card of your library if
+with trample
+this effect
+this creature enters with a 11
 this creature deals 2 damage to
-spell put
-spell create
+target creature gets 11 until end
+mana value 3 or less from
+have two
+haste and
+died this
+deathtouch until
+dealt combat
+creature enters with a 11 counter
+creature doesnt untap during its controllers
+cast if
+cant be blocked except by creatures
+bottom in
+be blocked except by creatures with
+you may put that card on
+until end of turn it cant
+step you
+put that card on the bottom
 or put it into your graveyard
 opponent reveals
-land card put it onto the
-have two
-bottom in
-be put
-another nontoken
-this creature enters with a 11
-tap while
-spells you cast cost 1 less
-spell cant
-pays for 1 or one mana
-or g
-of spells or abilities your opponents
-lore counter sacrifice after iii i
-it gains haste until end of
-for 1 or one mana of
-flying haste
-each creature you tap while casting
-died this
-creature enters with a 11 counter
-card from among them and put
-artifact with 2 t sacrifice this
-a lore counter sacrifice after iii
-you control deals combat damage to
-white soldier
-when this creature enters if you
-treasure tokens
+may put that card on the
+loses life
+last is
+end of turn it cant be
+crew 2
+token add
 this creature enters you may search
-this creature cant be blocked by
-the bottom in a random order
-t you
-put that card on the bottom
+tap while
+sacrifices a creature of their choice
+players library
 player draw
 on the bottom in a random
-main phase
-loses 1 life and you gain
-haste and
-g or
+more to
+mana abilities
+lore counter sacrifice after iii i
+flying haste
 exile cards from the top of
-equip 1
-deals 3 damage to any target
+enchanted land
+each creature you tap while casting
+damage and
 creature enters you may search your
-costs 2
-control you
-cant be blocked except by creatures
-be blocked except by creatures with
-until end of turn target creature
-this vehicle becomes an artifact creature
-then that
-or one mana of that creatures
-or becomes
-one mana of that creatures color
-loses all
-creatures color
-creature gets xx until end of
-creature draw
-creature doesnt untap during its controllers
 card that
 battlefield it
-1 or one mana of that
-your devotion
-your creatures
-you may put that card on
+another nontoken
+a lore counter sacrifice after iii
+3 as
+with two 11 counters on it
+when this creature enters if you
+untap during its controllers untap step
+this creature cant be blocked by
+the bottom in a random order
+that are
+main phase
+loses all
+gain 4
+creature create
+card with mana value 3 or
+and whenever
+your hand and the rest on
 you may cast this spell any
+value less
 turn when
 this spell any time you could
-tapped unless
+stun counter
 spell any time you could cast
-sacrifices a creature of their choice
-planeswalker you
 planeswalker its
 owners hands
-may put that card on the
+or becomes
 may cast this spell any time
+loses 1 life and you gain
+has haste
 has first
-devotion to
-dealt combat
+green and
+doesnt untap during its controllers untap
+cast this spell any time you
+battlefield put
+and gains trample until end of
+a stun
+your creatures
+x where
+tapped unless
+menace this
+hand and the rest on the
+green saproling
+equip 1
+counter on each creature you control
 convoke your creatures can help cast
 convoke your
-cast this spell any time you
-an artifact with 2 t sacrifice
-value less
-spell pays for 1 or one
-menace this creature cant be blocked
-menace this
-has haste
-gain 4
-flash flying
-enchanted land
-bottom of your library in any
-and whenever
-and only
-until end of turn it cant
-treasure token its an artifact with
-total mana
-tokens you
+control three
+control deals combat damage to a
+colorless eldrazi
+and create
+1 put
+with haste
+until the
 to creatures
+then put any number of them
+them into your hand and the
+the mana
+pays for 1 or one mana
+of other
+mill three
+menace this creature cant be blocked
+may create
+library this
+library then put any number of
+it doesnt
+haste exile
+for 1 or one mana of
+flash flying
+combat damage to a player that
+cards of your library put one
+becomes tapped
+ability of
+your library then put any number
+the ring
 that spells
-that are
-step you
-reach this
+than pay this spells mana cost
+spell copy
+saproling creature
+rather than pay this spells mana
+player who
+of your library until you exile
+of your library then put any
 of your end step if you
 of damage
 of a spell or ability an
-mana value 3 or less from
-loses life
-it doesnt
-end of turn it cant be
-damage and
-blocked it
-your hand and the rest on
-until the
-untap during its controllers untap step
-then put any number of them
-player who
-opponents graveyard
-of your library until you exile
-of mana
 menace whenever
-library then put any number of
-green and
-creature return
-create three
-controls an
-control three
-combat damage to a player draw
-cast this card from your hand
-black creatures
-a treasure token its an artifact
-your library then put any number
-with trample
-with haste
-vehicle becomes an artifact creature until
-target creature gets 11 until end
-put three
-players library
-of your library then put any
-if you cast this spell for
-hand and the rest on the
-greatest power
-doesnt untap during its controllers untap
-dies return
-card with mana value 3 or
-you cast this spell if you
-when enchanted
-token copy
-this creature gets 22 until end
-or blocking
-number of creatures you control with
-may create
-flash you may cast this spell
-enters destroy
-enchanted permanent
-deathtouch until
-chosen color
-card search
-attacking or
-any number of creatures you control
-ability of
-you tap while casting this spell
-this spell pays for 1 or
-the ring
-tap while casting this spell pays
-spell copy
-scry 1 look at the top
-players upkeep
-player pays
-mill three
+may activate
 into exile
-creatures and
-creature you tap while casting this
-create a treasure token its an
-control deals combat damage to a
-cast this spell if you do
-cards of your library put one
-becomes tapped
-battlefield put
-andor players
-and white
-and exile this card from your
-a 11 counter from this creature
-your library until you exile a
-your creatures can help cast this
-with mana value x or less
-trample haste
-this spell each creature you tap
-tapped when
-tap an
-spell each creature you tap while
-put on
-library this
-its an artifact with 2 t
-it can
-help cast this spell each creature
-haste exile
-has t
-exile it at the beginning of
-damage to the player or planeswalker
-creatures can help cast this spell
-combat damage to a player that
-cast this spell each creature you
-artifact draw
-and create
-a green
-your upkeep remove a time counter
-your turns
+gets 21
+enchanted permanent
+creature put a 11 counter on
+costs 2
+combat damage to a player draw
+blocked it
+black creatures
 you and
+vigilance until
+treasure token its an artifact with
+token copy
+scry 1 look at the top
+permanent cards
+or one mana of that creatures
+or blocking
+opponents graveyard
+one mana of that creatures color
+exile it at the beginning of
+creatures color
+controls an
+chosen color
+cast this card from your hand
+card each
+attacking or
+1 or one mana of that
+your devotion
+you control get 11 until end
+with mana value x or less
+it can
+if you cast this spell for
+has a
+dies return
+devotion to
+creatures and
+color of
+charge counters
+and white
+a treasure token its an artifact
+11 counter on each creature you
+white human
+when enchanted
+until end of turn this creature
+type with
+target noncreature
+spell pays for 1 or one
+put all
+opponent who
+hand this
+greatest power
+flash you may cast this spell
+exile this card from your hand
+exile them
+enters destroy
+choose an
+attacks put
+2 look
+your turns
+your library until you exile a
+you tap while casting this spell
+you cast this spell if you
+untap all
+trample haste
+that say
+tap while casting this spell pays
+say destroy
+ring tempts
+players upkeep
+only creatures
+one color
+gets 33 until end of turn
+effects that
+dont destroy
+damage to the player or planeswalker
+creature you tap while casting this
+at the top four cards of
+andor players
+and exile this card from your
+all creature
+2 create
+your creatures can help cast this
+win the
+turn each
 to the player or planeswalker its
-this token you gain 3 life
+this spell each creature you tap
 this creature can block creatures with
+the number of cards in your
+target of spells or abilities your
+tapped when
+spell each creature you tap while
+player pays
+pay 2
+loses 3
+look at the top four cards
+help cast this spell each creature
+effects that say destroy dont destroy
+during their
+destroy dont
+creatures can help cast this spell
+creature destroy
+create a treasure token its an
+counter target spell unless its controller
+cost or
+cast this spell each creature you
+basic land card put it onto
+attack this
+are in
+any one
+a basic land card put it
+33 and
+11 blue
+1 whenever
+your library you may reveal a
+you this
+you put
+until end of turn you may
+this spell pays for 1 or
 then sacrifice
 the player or planeswalker its attacking
 the card
-t sacrifice this token you gain
-sacrifice this token you gain 3
-permanents andor
-permanent cards
-of your upkeep remove a time
-mana as
-gets 33 until end of turn
-counter on each creature you control
-cost or
-attacks put
-another counter
-and gains trample until end of
-2 t sacrifice this token you
-1 whenever
-with different
-white human
-to gain
-them into your hand and the
-or w
-or r
-opponent who
-one color
-graveyard put
-creature they
-cast your
-battlefield you
-basic land card put it onto
-a black
-a basic land card put it
-you put
-you control get 11 until end
-w t
-untap all
 tempts you
-target of spells or abilities your
-ring tempts
-or u
+target spell unless its controller pays
+share a
+plus the
+player put
+permanents andor
+paying their
+gains deathtouch
+four 11
+cast this spell if you do
+battlefield you
+another counter
+33 green
+youve cast
+with 2 you gain 3 life
+when this creature enters it deals
+total mana
+than this
+target this
+spell exile
+put on
+lose 2
+graveyard onto
+equal to the number of cards
+enters with x 11 counters on
+discard this
+destroy that
+dealt this
+deals 1 damage to each opponent
+cast your
+a green
+2 search
+you attacked
+with base
+white and
+when this creature dies you may
+to gain
+the beginning of each end step
+sacrifice it at the beginning of
+prevent that
+permanent an
+mill two
+look at the top five cards
+leave the
 land type
 instead of
-four 11
-exile them
 enters sacrifice
-creature each
-choose an
-causes you
-are in
-any one
-a mountain
-youve cast
-white and
-vigilance until
-types among cards in your graveyard
-type with
-this creature is turned face up
-the beginning of each end step
-that say
-tap any number of creatures you
-say destroy
-sacrifice it at the beginning of
-reach this creature can block creatures
-of creatures you control with total
-loses 3
-lose 2
-look at the top five cards
-gets 21
-enters with x 11 counters on
-effects that
 each end
-draw x
-dont destroy
-deals 1 damage to each opponent
+dragon creature
+destroyed this
 deal excess
-creatures without
 creature can block creatures with flying
+causes you
 card types among cards in your
 can deal
-blocks or
+at the top three cards of
 at the top five cards of
-at the beginning of each end
-also causes
-a blue
+and target
+you cast cost 1 less to
 you can have two commanders if
-you attacked
-win the
-when this creature enters it deals
-when this creature dies you may
+vigilance and
+untap it
+types among cards in your graveyard
 two commanders
-then give
-target noncreature
-player put
-or b
-only creatures
-more lands
-leave the
-it gets 11 until end of
-give each
+three target
+this creature is turned face up
+seven or more cards are in
+reach this creature can block creatures
+or more cards are in your
+of artifacts
+mana as
+had flash
 excess combat
-effects that say destroy dont destroy
-destroy dont
+draw x
 deal excess combat damage to the
+creatures without
+creature they
 control another
 commanders if
+cast cost 1 less to cast
 can deal excess combat damage to
-as that
-11 counter on each creature you
-with base
-when this creature is turned face
+blocks or
+at the beginning of each end
+also causes
+a mountain
+a blue
+your upkeep remove a time counter
+x0 until
 way you
-until end of turn you may
+turn instead
+then give
+target creature to its owners hand
+one other
+of your upkeep remove a time
+of lands
+more lands
+lose the
+its not
+it gets 11 until end of
+it attacks
+instead if
+if youve
+have a
+give each
+excess combat damage to the player
+each opponents
+do it
+creatures they
+creature as
+cost or put it into your
+as that
+11 until end of turn for
+11 counter on it for each
+1 life and you gain 1
+when this creature is turned face
 token thats a copy of that
-this card search your library for
 then give each another counter of
-the number of cards in your
-than this
-spell exile
+that share
 players then give each another counter
 players then
 permanents andor players then give each
 of permanents andor players then give
+of creature
 number of permanents andor players then
+more cards are in your graveyard
+library until you exile a nonland
 kind already
-it attacks
-instead if
-has a
+it cant be blocked except by
 give each another counter of each
-gains deathtouch
-excess combat damage to the player
-equal to the number of cards
+get 20
+equal to its power to target
 each another counter of each kind
 each another
-discard this card search your library
-creature as
-counter target spell unless its controller
+dies draw
+damage to target creature or planeswalker
+creature cant be blocked this turn
 counter of each kind already there
-cost or put it into your
 choose any number of permanents andor
-card each
 being blocked
-at the top four cards of
+battlefield return
+artifact deals
 any number of permanents andor players
 another counter of each kind already
 andor players then give each another
-and target
 already there
-all creature
-11 until end of turn for
-turn each
-target spell unless its controller pays
-target creature to its owners hand
-share a
-seven or more cards are in
-permanent an
-or more this vehicle becomes an
-or more cards are in your
-of artifacts
-more this vehicle becomes an artifact
-more cards are in your graveyard
-look at the top four cards
-life and you gain 1 life
-library until you exile a nonland
-its not
-if youve
-have a
-hand this
-each age
-during their
-do it
-destroy that
-33 and
-2 look
-11 blue
-1 life and you gain 1
-your library you may reveal a
-you this
-you may look at the top
-x0 until
-until you exile a nonland card
-to a player draw a card
-three target
-put all
-prevent that
-pays 2
-paying their
-other costs
-opponent loses 1 life and you
-lose the
-it cant be blocked except by
-had flash
-graveyard onto
-get 20
-flying when this creature enters you
-dies draw
-destroyed this
-damage to a player draw a
-creatures they
-control its
-combat damage to the player or
-beginning of your upkeep put a
-at the top three cards of
-and t
+all graveyards
 additional 11
-value of
-this land enters tapped unless you
-t this creature deals 1 damage
-shares a
-power among
-power 3
-plus the
-for each age counter on it
-equal to its power to target
-dealt this
-creature cant be the target of
-creature cant be blocked this turn
-color of
-a white
-11 counter on it for each
+a black
+your life
 you cast this spell you may
-with another
-whenever this creature becomes the target
-when this creature enters you gain
-two cards of your library then
-to creatures in the form of
+you cast a noncreature spell this
+until you exile a nonland card
+those tokens
+that cards
+surveil 1 look at the top
+spells you cast cost 1 less
+shares a
 permanent to
+pays 2
+other costs
+look at the top three cards
+life and you gain 1 life
+haste when
+each age
+damage to a player draw a
+combat damage to the player or
+and this
+you may look at the top
+with whenever
+with another
+two cards of your library then
+token its an artifact with 2
+token it
+to a player draw a card
+this creature enters create a 11
+player create
 permanent then
-one other
+of them into your hand and
+goblin creature
+flying when this creature enters you
+draw cards
+creature cant be the target of
+22 green
+you or
+to creatures in the form of
+this land enters tapped unless you
+their mana
+permanent is
 more card
-mill two
 is that
 in the form of 11 counters
-green saproling
-enters with two 11 counters on
+for each age counter on it
+draw that
+double strike until end of turn
+discards two
 damage to creatures in the form
 creatures in the form of 11
-cost 2
-attack you
-and is
-a red
-33 green
-you cast a noncreature spell this
-when this creature leaves the battlefield
-untap it
-turn instead
-to cast this spell sacrifice a
-this creature enters create a 11
-that cards
-target this
-surveil 1 look at the top
-return that card to the battlefield
-player create
-permanent is
-of lands
-it with
-has vigilance
-draw cards
-double strike until end of turn
-damage to target creature or planeswalker
+creatures cant
 cant be blocked by creatures with
-b this
-artifact deals
-an xx
-22 green
-your life
-your graveyard to the battlefield tapped
-you cast this spell for its
+attack you
+at the beginning of your next
+a red
+a 01
+you may play that card this
 would leave
-vigilance and
-time counters on it at the
-those tokens
-this combat
-that share
-saproling creature
-remove a 11 counter from this
-proliferate choose
-of creature
-look at the top three cards
+with vigilance
+whenever this creature becomes the target
+when this creature leaves the battlefield
+when this creature enters you gain
+value 2
+power among
+power 1
+it return
+has vigilance
+during each
+creatures you control get 11 until
+control its
+control cant
+attacks alone
+an xx
+a white
+when this creature dies create a
+value 3 or less from your
+turn creatures
+to cast this spell sacrifice a
+sorcery spells
+return that card to the battlefield
+other cards
+opponent loses 1 life and you
 life where
 it resolves
-haste when
+is equal to the number of
+for as long as you control
+creature the
+black and
+be activated
+battlefield face
+and is
+activate this
+abilities cant
+a 11 counter on it for
+2 tap
+2 put
+1 create
+your graveyard to the battlefield tapped
+you gain life equal to the
+you cast this spell for its
+with different
+turn damage
+token thats a copy of it
+this combat
+the copies
+that opponent
+tapped creature
+tap it
+proliferate choose
+no 11
+haste exile it at the beginning
+hand exile
+enters with two 11 counters on
+enters scry
 enchant land
-each opponents
-during each
-draw that
-discards two
-creature with power 4 or greater
+each permanent
+creature gains first strike until end
 creature attacks each combat if able
-counter when
-card search your library for a
-attacks alone
-all graveyards
+combat phase
+choose up
+b or
+any player
+a 22 black zombie creature token
+you may put it into your
 you cycle
 you control enters put a 11
-with vigilance
-with one
-when this creature dies create a
-token thats a copy of it
+value of
 to destroy
 to a creature is enough to
 this land enters tapped when this
+this creature cant be the target
 the beginning of each players upkeep
+return target creature to its owners
 proliferate choose any number of permanents
 otherwise put
-of them into your hand and
-no 11
-more 11
 land enters tapped when this land
-it return
-is equal to the number of
 is enough
-hand exile
-for as long as you control
+has whenever
+gets 44
+gains control
+gain x
+from among them onto the battlefield
 enters tapped when this land enters
 enough to
-creatures you control get 11 until
-creatures cant
+damage and effects that say destroy
+creature with power 4 or greater
+creature gets 33 until end of
+creature deals 1 damage to any
+control until
 control enters put a 11 counter
-battlefield face
-at the beginning of your next
+and effects that say destroy dont
+and effects
 affinity for
 a plains
 a creature is enough to destroy
-2 if
-1 when
-you or
-you may put it into your
+you if
+you draw a card and you
 when this creature enters target creature
 types and
-this creature cant be the target
-their mana
-other cards
-has whenever
-goblin creature
-flying lifelink
-creature gains first strike until end
-creature deals 1 damage to any
-an age
-ability you
-2 this
-2 attach to target creature you
-2 attach
-2 2 attach to target creature
-you if
 to an
+them at
 their other
+target opponents
 player puts
 or is
-may look at the top card
-it remove
-gets 44
-gains control
-from among them onto the battlefield
-enters scry
-deals damage to creatures in the
-creature was
-combat phase
-cards on
-card sacrifice
-an emblem
-a 22 black zombie creature token
-a 11 counter on it for
-1 this
-you draw a card and you
-with banding
-vigilance when
-value 3 or less from your
-upkeep cost for each age counter
-upkeep cost
-the copies
-sorcery spells
-reveal cards from the top of
-reveal cards
-pay its upkeep cost for each
-or more card types among cards
-life whenever
-its upkeep cost for each age
-its upkeep
-haste exile it at the beginning
-four or more card types among
-emblem with
-dragon creature
-creature the
-cost for each age counter on
-and this
-abilities cant
-a counter
-2 look at the top two
-you may play that card this
-until the end of your next
-turn activate only as a sorcery
-token thats a copy of target
-that opponent
-target opponents
-tapped creature
-shield counter
-return target creature to its owners
-return an
 may play that card this turn
-greatest mana
+may look at the top card
 gets x0 until end of turn
-enter the
-enchantment or
-creature gets 33 until end of
-control cant
-cast from
-beginning of your upkeep put an
-battlefield return
-any creatures
-a shield
-a card at the beginning of
-3 3
+flying lifelink
+deals damage to creatures in the
+deal combat damage to a player
+cards on
+an age
+ability you
+2 look at the top two
 00 black
 x is the number of cards
+vigilance when
+until the end of your next
+token thats a copy of target
+shield counter
+reveal cards from the top of
+reveal cards
+or more card types among cards
+haste this
+graveyard exile
+four or more card types among
+enter the
+create a 22 black zombie creature
+card discard
+artifact with 2 you gain 3
+a shield
+a card at the beginning of
+2 attach to target creature you
+2 attach
+1 target
+with one
+with banding
+upkeep cost for each age counter
+upkeep cost
+up to one target creature you
+two untapped
+they dont
+the end of your next turn
+thats tapped
+sacrificed creatures
+remove three
+pay its upkeep cost for each
+next upkeep
+more 11
+its upkeep cost for each age
+its upkeep
+it with
+enchantment or
+divided as
+creature each
+counters and
+cost for each age counter on
+control each
+control deal
+are put
+3 or less from your graveyard
+your graveyard to the battlefield it
+with four
+when this creature enters target player
+turn its
+turn activate only as a sorcery
+time counters on it at the
+there are four or more card
+the number of creatures you control
+tap up
+opponent you
+of your library put one of
+more card types among cards in
+life whenever
+life put
+library you may play that card
+library where
+hand from
+greatest mana
+gain haste until end of turn
+from black
+doesnt untap during its controllers next
+damage that would be dealt this
+counter when
+control put
+control is
+combat damage to a player create
+choice until
+cast from
+beginning of your upkeep put an
+attacks or
+are four or more card types
+any creatures
+x0 until end of turn where
 with that
 whenever this creature blocks or becomes
-when this creature enters target player
-when this creature enters if it
-turn its
-turn damage
+value less than or equal to
+value 4
+upkeep that
+untapped creatures
+untap during its controllers next untap
 this creature blocks or becomes blocked
-there are four or more card
-then attach
-the total
-the end of your next turn
+the battlefield under your control this
 strike whenever
-opponent you
-more card types among cards in
-library where
-gain x
-g t
-deal combat damage to a player
-damage and effects that say destroy
-crew 2
-counters and
+r or
+power is equal to the number
+player exiles
+other into
+may put a land card from
+mana value less than or equal
+gains haste exile it at the
+gain trample
+enchantment leaves
+each time
+during its controllers next untap step
+draw a card and you lose
+creature you control deals combat damage
+creature was
+creature loses
 counter it
 controls counter
 controller may
 control two
-control is
-choose up
-be activated
-are put
-are four or more card types
-and effects that say destroy dont
-and effects
-activate this
-your graveyard to the battlefield it
-you gain life equal to the
-value 2
-turn creatures
-the battlefield under your control this
-thats tapped
+control at the beginning of the
+beast creature
+be spent
+and up
+and loses
+and black
+an artifact with 2 you gain
+a commander
+2 search your library for a
+2 life and you gain 2
+you may put a land card
+you control with total power 2
+the flip
+target creature gets xx until end
+tap two
+put one of them into your
 put an age counter on this
+poison counter
 or ability an opponent controls counter
-may put a land card from
-hand from
-each time
-doesnt untap during its controllers next
+opponent chooses
+next 1
+max speed
+loses 2 life and you gain
+life and you gain 2 life
+hand or
+graveyard to the battlefield it gains
+graveyard on
 deals to a creature is enough
 deals to
 creature is enough to destroy it
-create a 22 black zombie creature
-black and
+creature draw
+control with total power 2 or
+cast a noncreature spell this creature
 beginning of your upkeep sacrifice this
-attacks or
-any player
-a coin
+battlefield with
+abilities from
+1 damage that would be dealt
 your upkeep put an age counter
-you may put a land card
+you search
+you gained
+you control deal combat damage to
+with mana value less than or
+when this creature enters if it
 was dealt
-value less than or equal to
-value 4
-upkeep that
 upkeep put an age counter on
-untap during its controllers next untap
+to its power to target creature
 this permanent then sacrifice it unless
-this creature enters if it was
 then sacrifice it unless you pay
-them at
-the number of creatures you control
-tap up
-power is equal to the number
-poison counter
+the next 1 damage that would
+that would be dealt this turn
+target instant or sorcery card from
+remains exiled
 permanent then sacrifice it unless you
-other into
+or vehicle
 on this permanent then sacrifice it
 of your upkeep put an age
-of other
+of your library until you reveal
+of your choice until end of
 nonhuman creature
-mill a
-mana value less than or equal
-library you may play that card
-from black
-each permanent
-during its controllers next untap step
-draw a card and you lose
+next 1 damage that would be
+mana spent
+its mana cost if its a
+have haste
+creature enters with x 11 counters
 counter on this permanent then sacrifice
-control deal
-combat damage to a player create
-be spent
+card name
+card activate
 battlefield under your control this turn
-attack this
-and up
-and black
+attach it
 an age counter on this permanent
 age counter on this permanent then
-abilities from
-a spirit
-a commander
-3 or less from your graveyard
+a coin
 you pay its upkeep cost for
-you gained
-with four
-with either
+you activate
+w or
 untap that
 unless you pay its upkeep cost
-the flip
-target instant or sorcery card from
-tap it
-players cant
-of your library until you reveal
-it unless you pay its upkeep
-graveyard to the battlefield it gains
-graveyard on
-gains haste exile it at the
-divided as
-discard your
-deathtouch whenever
-creature loses
-control each
-card discard
-battlefield with
-attach it
-as there
-and loses
-able and
-abilities and
-x0 until end of turn where
-without paying its mana cost if
-with mana value less than or
-to its power to target creature
-this creature to its owners hand
+turn prevent
 this creature enters with x 11
-remove all
-or vehicle
-or activate
-oil counter
-of your library put one of
-may activate
-its mana cost if its a
+sorcery cards
+return this creature to its owners
+players cant
+on them
+number of cards in your hand
+library and
+less than or equal to the
+it unless you pay its upkeep
+it cant be the target of
 if they
+haste sacrifice
+has this
+gains deathtouch until end of turn
+g or
+deathtouch whenever
+create a 11 green saproling creature
+control it
+combat damage to a player put
+color with
+cards from your graveyard to your
+beginning of your upkeep if this
+as there
+an ability
+able and
+a spirit
+a 11 green saproling creature token
+your library you may play that
+without paying its mana cost if
+u or
+this creature enters if it was
+there is
+then attach
+target creature card with mana value
+strike this
+player this
+play lands
+permanent spell
+or activate
+on up
+nonblack creature
+menace until
+maximum hand
+hand size
 for mana
 flying at the beginning of your
-enchantment leaves
-creature enters with x 11 counters
-control at the beginning of the
-cast a noncreature spell this creature
-card name
-an ability
-1 1
+equal to the number of creatures
+didnt have
+deals x damage to any target
+choose among
+and indestructible
+your commander
+you gain 1 life for each
+with total power 2 or more
 whenever this creature enters or attacks
 whenever this creature attacks it gets
 when this creature enters look at
-up to one target creature you
-there is
-sacrificed creatures
-remains exiled
-player exiles
-pays 1
-next upkeep
-max speed
-life put
-have haste
-has menace
-green creature
-get ee
-get 10 until end of turn
-gains deathtouch until end of turn
-equip 2 2 attach to target
-doesnt cause
-control until
-control it
-color with
-you control deal combat damage to
-triggered ability
-token it
-time counter when the last is
-that would be dealt this turn
-target creature gets xx until end
-second spell
-remove a time counter when the
-put one of them into your
-player chooses
-play lands
-permanent spell
-opponent chooses
-life and you gain 2 life
-less than or equal to the
-land card reveal it put it
-it that
-it equipped
-it cant be the target of
-hand or
-gain haste until end of turn
-damage that would be dealt this
-creature unless
-counter when the last is removed
-control are
-beginning of your upkeep if this
-battlefield under its owners control with
-among lands
-a time counter when the last
-2 life and you gain 2
-2 and
-your library you may play that
-you search
-you may pay 1 if you
-you activate
-whenever another creature you control enters
-when this creature enters draw a
-when a
-under its owners control with a
-two energy
+total power 2 or more this
 top of your library in any
 to the battlefield it gains haste
-this deals
-this creature enters draw a card
-than one
-target creature card with mana value
-tap target creature an opponent controls
-t put a 11 counter on
-return this creature to its owners
-player gains
-opponent controls counter it unless that
+the total
+tap an
+red goblin
+player chooses
+or g
+one of them into your hand
 on top of your library in
-number of cards in your hand
-nonblack creature
-next 1
-may pay 1 if you do
-loses 2 life and you gain
-library and
+its an artifact with 2 you
+it that
 hand at
-graveyard exile
-gain trample
+get 10 until end of turn
+gains lifelink
 flying or
 flying first
-equipment you
-enchantment card
-dies put a 11 counter on
-deals x damage to any target
-creature you control deals combat damage
-creature died
-controls counter it unless that player
-combat damage to a player put
-choice until
-cards named
-cards from your graveyard to your
-card create
+doesnt cause
+damage divided
+creature unless
+creature remove
+card of your library if its
 card and you lose 1 life
-c 1
-become the
-beast creature
-attacks exile
-an opponent controls counter it unless
-ability an opponent controls counter it
+battlefield under its owners control with
+and lifelink
 a card and you lose 1
-1 damage that would be dealt
+when a
+vehicle enters
+under its owners control with a
+triggered ability
+this creature gets 20 until end
+spell this creature gets 11 until
+second spell
+owners control at the beginning of
+mill a
+land card reveal it put it
+has menace
+equipment you
+equip 2 attach to target creature
+enchantment card
+enchant creature enchanted creature gets 22
+dies put a 11 counter on
+crew 1
+creature died
+control are
+chooses a
+cards named
+attacks exile
+andor black
+among lands
+a counter
+your choice until end of turn
+whenever another creature you control enters
+when this creature enters draw a
+tokens where
+this deals
+this creature enters draw a card
+then each
+them then
+the number of 11 counters on
+the cards
+that card to the battlefield under
+tap target creature an opponent controls
+surveil 2
+player gains
+pays 1
+opponent controls counter it unless that
+land is
+gets 12
+gains vigilance
+from the top of their library
+damage divided as you choose among
+creature return
+create that
+controls counter it unless that player
+cards revealed
+cards from the top of their
+become the
+an opponent controls counter it unless
+activate abilities
+ability an opponent controls counter it
+a noncreature spell this creature gets
+your library put one of them
 you to gain that much life
 x cards of your library where
 whenever a creature you control with
 whenever a creature you control attacks
-untapped creatures
-u t
+vigilance trample
+under their
+turn return
+turn any
+to the number of cards in
 to tap
-this spell costs 2 less to
-then each
-the next 1 damage that would
-the cards
-tap two
-spell costs 2 less to cast
-player this
-owners graveyard
-on them
+this creature to its owners hand
+target cards
+planeswalkers you
+on an
 of your library where x is
-of times
-next 1 damage that would be
-maximum hand
-land is
-hand size
+of your library into your graveyard
+mana cost if its a creature
+have it
 hand face
 greater than
-from the top of their library
 except it
-enchant creature enchanted creature gets 22
-ee two
-didnt have
-choose among
-causes you to gain that much
-cards of your library where x
-cards from the top of their
-card put a 11 counter on
-attacking doesnt
-arcane spell
-andor black
-also causes you to gain that
-activate abilities
-a snow
-your choice until end of turn
-you cast this spell copy it
-when you cast this spell copy
-under their
-this creature enters you may sacrifice
-they dont
-them put
-the number of 11 counters on
-that card to the battlefield under
-spells with
-spell this creature gets 11 until
-sorcery cards
-r t
-one of them into your hand
-of your library into your graveyard
-of your choice until end of
-menace until
-may spend
-mana from
-it were
-is in
-for a basic land card reveal
-equal to the number of creatures
-each opponent loses 1 life and
-discards that
-damage divided
-cumulative upkeep
-counter it unless that player pays
-companion you
-chooses a
-card activate
-as long as this creature is
-any of
-and lifelink
-a 01
-5 life
-when this equipment enters create a
-when this creature dies if it
-this creature gets 20 until end
-the creatures
-target opponent reveals their hand you
-reveals the
-player other
-on an
-more artifacts
-mana cost if its a creature
-madness cost
-land enters tapped unless you control
-haste sacrifice
 except by artifact creatures andor black
 deals 1 damage to each creature
-control put
-cast this spell sacrifice a creature
-by artifact creatures andor black creatures
+cumulative upkeep
+causes you to gain that much
+cards of your library where x
+c add one mana of any
 blocked except by creatures with flying
-a noncreature spell this creature gets
-when this creature enters return target
-were mana
-vigilance trample
-tokens where
-to the number of cards in
-to cast this spell you may
-though it were mana of any
-this spell copy it for each
-them then
-target cards
-sliver creatures
-red goblin
-reach when
-owners control at the beginning of
-or reach
+attacking that
+attacking doesnt
+as long as this creature is
+arcane spell
+any type
+any of
+also causes you to gain that
+add c add one mana of
+5 life
+you cast this spell copy it
+whenever you cast a creature spell
+when you cast this spell copy
+when this equipment enters create a
+when this creature dies if it
+this creature gains flying until end
+this creature enters you may sacrifice
+them put
+them at the beginning of the
+spells with
+prowess whenever
 opponent has
+of turn it cant be blocked
 of life
-more other
-mana spent
-knight creature
-if you control a creature with
-gains lifelink
-food token its an artifact with
-flash enchant
+of enchanted
+of combat on your turn if
+may spend
+madness cost
+lifelink whenever
+library put one of them into
+it were
+it deals 1 damage to any
+is in
+for a basic land card reveal
 except by creatures with flying or
 enchant creature enchanted creature gets 11
+each color
 double the
-discard it
-damage divided as you choose among
+discards that
 creature in
-creature enters if it was kicked
-create a food token its an
-cost when this creature is turned
-choose new targets for the copies
-cast this spell copy it for
-cards revealed
-card type
-card of your library if its
-by creatures with flying or reach
-attacking that
-as though it were mana of
-any type
-a food token its an artifact
-you gain 1 life for each
-whenever you cast a creature spell
-when the last is removed you
+counter it unless that player pays
+cost 2
+companion you
+card to the battlefield under its
+by artifact creatures andor black creatures
+abilities and
+a crime
+1 tap
+you may put a creature card
+whenever a creature you control enters
 upkeep this
-upkeep remove a time counter when
 up any time for its mana
-the last is removed you may
+two energy
+the creatures
 the battlefield face down as a
-that land
-t untap
-sagas are
-return it to its owners hand
-rest of
-removed you may cast it without
-removed you
-prowess whenever
+than one
+target opponent reveals their hand you
+strike and
+reveals the
+player other
+play those
+pay and
+owners graveyard
+or reach
 opponent may
 onto the battlefield face down as
-of combat on your turn if
+more artifacts
+lose life
+land enters tapped unless you control
+if you control a creature with
+green creature
+greater power
+graveyard into
+flying you
+draw a card at the beginning
+discard it
+discard a card if you do
+deals 4 damage to target creature
+control enchanted
+control deal combat damage to a
+choose new targets for the copies
+cast this spell sacrifice a creature
+card put that card onto the
+by creatures with flying or reach
+battlefield face down as a 22
+artifact becomes
+any time for its mana cost
+1 when
+would be dealt to any target
+with menace
+when this creature enters return target
+were mana
+to cast this spell you may
+time counter when the last is
+though it were mana of any
+this spell costs 2 less to
+this spell copy it for each
+that would be dealt to any
+spell costs 2 less to cast
+source of
+sliver creatures
+six cards
+return it to its owners hand
+remove all
+remove a time counter when the
+reach when
+or if
+of your library if its a
 library any
+legendary creatures
+it equipped
+food token its an artifact with
+flash enchant
+enchantment and
+create a food token its an
+counter when the last is removed
+cost when this creature is turned
+cast this spell copy it for
+card type
+be dealt to any target this
+as though it were mana of
+and put a 11 counter on
+and at
+a time counter when the last
+a snow
+a food token its an artifact
+a 11 counter on each of
+your first
+would draw
+without first
+with mana value 2 or less
+white spirit creature token with flying
+way shuffle
+the color
+that land
+sagas are
+rest of
+owners control with a 11 counter
+or r
+or blocks
+oil counter
+mana from
 legendaries and
-last is removed you may cast
-is removed you may cast it
-have it
-haste this
-gets 12
+knight creature
+its owners control with a 11
+it return it to the battlefield
+it gains haste exile it at
+it deals damage equal to its
+is every
+hexproof and
+graveyard by
+gains double
 flying as
 enters search
 enter as
-draw a card at the beginning
+each opponent loses 1 life and
+discard your
+dies it
 creature at the beginning of the
-create that
-control enchanted
-card to the battlefield under its
 bird creature
-battlefield face down as a 22
+attacks put a 11 counter on
 attack and
 at the top x cards of
-artifacts legendaries and sagas are historic
 artifacts legendaries
-are historic
-any time for its mana cost
-another artifact
 and that
 and sagas
-and indestructible
-an oil
-a creature card from your graveyard
+an instant or sorcery spell this
+an equipment
+a loyalty
 a basic land card reveal it
-your library put one of them
-your first
-your commander
-you get ee two energy counters
-without first
-whenever a creature you control enters
+you control with total power 1
+with total power 1 or more
+where x is the amount of
+was a
+two mana
+total power 1 or more this
+top card of your library any
 than cast this card from your
 than cast
-surveil 2
-six cards
+tap enchanted
+spell cast
+search your library for a creature
 rather than cast this card from
-owners control with a 11 counter
-or if
-of turn it cant be blocked
-of enchanted
+put it into your hand if
+put a charge counter on this
+or w
+or u
+of times
+more other
+mana value x or less from
 mana as though it were mana
 look at the top x cards
-legendary creatures
-its owners control with a 11
-it return it to the battlefield
-it deals damage equal to its
-is every
-greater power
-graveyard into
-graveyard by
-get 22 until end of turn
-discard two
-creature enter
-cost to cast this spell you
-colorless eldrazi
-card put that card onto the
-attacks put a 11 counter on
-a poison
-you become
-would be dealt to any target
-with menace
-value among
-top card of your library any
-this creature enters look at the
-that would be dealt to any
-that ability
-ten or
-t return
-t prevent
-strike and
-sacrifice two
-put two 11 counters on it
-player other than you if able
-play those
-or blocks
-on top of its owners library
-mana value x or less from
-lifelink whenever
-library put one of them into
 its madness
-it were mana of any color
-it gains haste exile it at
+it remains
+it except
 had no
 graveyard then
-gains double
+get 22 until end of turn
+for as long as it remains
 exile when
-each color
-discard a card if you do
-dealt to any target this turn
-deals 4 damage to target creature
-damage before creatures without first strike
-damage before
-creature enters look at the top
-creature also causes you to gain
-control deal combat damage to a
-combat damage before creatures without first
-choose both
-beginning of each end step if
-before creatures
-be dealt to any target this
-artifact becomes
-and all
-an equipment
-a player other than you if
-a d20
-a 11 counter on each of
-2 as
-you may put a creature card
+creature enters with two 11 counters
+creature enters if it was kicked
+creature enter
+creature deals 1 damage to each
+cost to cast this spell you
+control with total power 1 or
+as long as it remains exiled
+artifacts legendaries and sagas are historic
+are historic
+and green
+a poison
 you do cast it for its
-with the same name as that
-white spirit creature token with flying
+you become
+without paying its mana cost put
+with you
+whenever you cast a spell that
 when you do cast it for
-untap during your next untap step
-two untapped
-two mana
+value among
+until end of turn draw a
 turns upkeep
-turn prevent
+time for its mana cost if
 this creature enters with two 11
-them at the beginning of the
+this creature enters look at the
 the top of their library until
+the number of lands you control
 the beginning of the next turns
-t choose
-spend mana
-spell only
-spell cast
-reveals their hand you choose a
-planeswalkers you
-or 2
+ten or
+regenerate target
+put a 11 counter on that
+player other than you if able
+or b
+on top of its owners library
 next turns
+menace and
 madness cost or put it into
-lose life
 its madness cost or put it
+it were mana of any color
 it into exile when you do
 it for its madness cost or
-it except
-is its
 into exile when you do cast
+if it would leave the battlefield
+for its mana cost if its
 for its madness cost or put
+five cards of your library you
 exile when you do cast it
-exile target card from a graveyard
+end of turn draw a card
+each spell
+each land
 do cast it for its madness
 do cast
 discard it into exile when you
 destroy up
-creatures have
-creature enters with two 11 counters
-control create
-cast it for its madness cost
-cards where
-card target
-card of your library any time
-beginning of the next turns upkeep
-and put a 11 counter on
-and at
-a single
-a crime
-your party
-you discard this card discard it
-without paying its mana cost put
-with whenever
-with mana value 2 or less
-with a finality counter on it
-whenever you cast a spell that
-when this creature enters choose one
-way shuffle
-time for its mana cost if
-this creature also causes you to
-this card discard it into exile
-target nonhuman
-source of
-put those
-one destroy
-on it return it to the
-of your library if its a
-of putting
-more life
-may put it into your graveyard
-it remains
-if you discard this card discard
-if you control three or more
-if it would leave the battlefield
-gains vigilance
-for its mana cost if its
-for as long as it remains
-flip a
-five cards of your library you
-first time
-finality counter
-each spell
-each land
-discard this card discard it into
-dealt by this creature also causes
-creature cant be blocked by creatures
+dealt to any target this turn
+damage before creatures without first strike
+damage before
+creature enters look at the top
+creature also causes you to gain
 cost if its a creature card
 copy target
-control or
-control enter
-color to
-cards to
-card discard it into exile when
-by this creature also causes you
-basic land card reveal it put
-as long as it remains exiled
-and the other into your graveyard
-a finality
-11 whenever
-would draw
-with enchant
-where x is the amount of
-whenever the
-untapped creature
-u this
+control exile
+combat damage before creatures without first
+choose both
+cast it for its madness cost
+cards where
+cards if
+card of your library any time
+beginning of the next turns upkeep
+beginning of each end step if
+before creatures
+and all
+a player other than you if
+a d20
+a 11 white spirit creature token
+44 until
+you search your library this way
+you discard this card discard it
+with the same name as that
+untap during your next untap step
 token cant
+this card discard it into exile
+that ability
+target and
+spend mana
+spell target
+spell only
+reveals their hand you choose a
+reveal it and put it into
+put two 11 counters on it
+put those
+prowess whenever you cast a noncreature
+outside the
+opponent or
+on it return it to the
+no cards
+it and put it into your
+if you discard this card discard
+if you control three or more
+graveyard onto the battlefield under your
+from combat
+four cards of your library you
+first time
+exile target card from a graveyard
+discard this card discard it into
+creatures have
+creature cant be blocked by creatures
+counters on it return it to
+counters among
+card discard it into exile when
+card at the beginning of the
+be destroyed
+army you
+and the other into your graveyard
+21 until
+with lifelink
+with enchant
+with a finality counter on it
+when this creature enters choose one
+vehicle attacks
+tokens that
 to the battlefield under your control
 to paying
-spell is
-put a charge counter on this
-on up
-menace and
-less you
-it t
-if a creature died this turn
-hexproof and
-gains double strike until end of
-equipment to
-dies it
-dies each
-damage dealt by this creature also
-creature deals 1 damage to target
-creature deals 1 damage to each
-counters on it return it to
-controls gets
-choose two
-card or
-card from your graveyard create a
-card at the beginning of the
-attack unless
-artifact add
-army you
-a goblin
-44 until
-with 1
-w this
-three time
-this creature dies if it had
-targets a
-tap all
-put it into your hand if
-prowess whenever you cast a noncreature
-player if
-plains card
-pay 3
-partner with
-outside the
-mana in
-lifelink damage
-its foretell
-if there are four or more
-foretell cost
-flying you
-every creature
-enters mill
-damage you
-creatures toughness
-creature defending
-creature dealt
-cost it
-cards if
-battlefield exile
-an instant or sorcery spell this
-a 11 white spirit creature token
-a 11 green saproling creature token
-you may have this creature enter
-you control with a 11 counter
-x life where x is the
-with ward
-with shadow
-whenever this creature is dealt damage
-were mana of any color to
-was a
-vigilance attacking
-unless they
-two other
-turn any
-tokens that
-the number of lands you control
+this creature also causes you to
 the number of creature cards in
-the color
 the beginning of your next upkeep
-the battlefield it gains haste exile
-target and
-tap enchanted
-t destroy
-step or
-spend mana as though it were
-spell target
-spell put a 11 counter on
-spell and
-rounded up
-reveal it and put it into
-return the
-return another
-put a 11 counter on that
-pay the
-or sorcery card from your graveyard
-of each players upkeep that player
-noncreature spell this creature gets 11
-no cards
-may spend mana as though it
-land search
-it and put it into your
-instant or sorcery card from your
-graveyard onto the battlefield under your
-from outside
-dont untap
-dies exile
-deals 2 damage to target creature
-creature you control with a 11
-create a 11 green saproling creature
-counters among
-control exile
-beginning of each players upkeep that
-battlefield it gains haste exile it
-and green
-a second
-2 put
-your library for up to two
-you search your library this way
-you cast a spell that targets
-would leave the battlefield unearth only
-with lifelink
-whenever equipped creature deals combat damage
-was spent to cast this spell
-until end of turn untap that
-unearth only
-turn return
-toxic 1
-them on
-the next end step or if
-the battlefield unearth only as a
-that shares
-strike this
-step or if it would leave
-spell you may choose new targets
-search your library for a creature
-reveals the top card of their
-reveal this
+target nonhuman
 red elemental
-r this creature gets 10 until
-putting it
-put up
-permanent of
-paying its mana cost put the
-or if it would leave the
-of the next end step or
-nonbasic land
-next end step or if it
-leave the battlefield unearth only as
-kicked it
-it would leave the battlefield unearth
-is 4
-from combat
-from an
-flying whenever this creature deals combat
-end step or if it would
-each nonland
-do copy
-deals combat damage before creatures without
-deals 1 damage to target creature
-damage it
-creatures each
-creature you control to its owners
-cards onto
-card from your hand face down
-blocks this
-battlefield unearth only as a sorcery
-battlefield unearth
-attacks a
-and isnt
-also get
-a zombie
-you dont control an army create
-you do put a 11 counter
-would be dealt to this creature
-token first
-this creature gains flying until end
-the most
-that token
-that arent
-than the
+red dragon
+prevent the next 1 damage that
+one or more creatures you control
+one destroy
+of putting
+noncreature spell this creature gets 11
+more life
+may put it into your graveyard
+less you
+indestructible counter
+if you search your library this
+if a creature died this turn
+human soldier
+gains double strike until end of
+from red
+from outside
+flip a
+finality counter
+discard two
+dealt by this creature also causes
+creatures toughness
+control enter
+control create
+color to
+cards to
+card put a 11 counter on
+by this creature also causes you
+basic land card reveal it put
+an indestructible
+a finality
+x life where x is the
+with shadow
+whenever the
+when the last is removed you
+upkeep remove a time counter when
+unless they
+turn saddle
+this creature dies if it had
+the last is removed you may
+the battlefield it gains haste exile
+step or
+spell is
 source you
 search your library this way shuffle
-return target creature card with mana
-remove one
-or artifact
-opponent or
-one or more creatures you control
-on an army you control its
-land you control to its owners
-land card from your hand onto
-its also
-it isnt
-it had no 11 counters on
+rounded up
+removed you may cast it without
+removed you
+plains card
+partner with
+opponent this
+last is removed you may cast
+is removed you may cast it
+is put into your graveyard from
+is its
 insect creature
-in addition to their other types
-if you search your library this
+if there are four or more
+for any
+every creature
+dies each
+damage you
+damage dealt by this creature also
+creatures each
+creature gains indestructible until end of
+creature defending
+creature deals 1 damage to target
+controls gets
+control or
+choose two
+cards this
+card or
+battlefield it gains haste exile it
+attack unless
+a single
+your party
+your library for up to two
+you control with a 11 counter
+you cast a spell that targets
+would leave the battlefield unearth only
+up to one other target creature
+unearth only
+two other
+turn tap
+time a
+thopter artifact
+the next end step or if
+the battlefield unearth only as a
+that token
+that shares
+step or if it would leave
+spell you may choose new targets
+spell put a 11 counter on
+spell and
+reveal an
+return target creature card with mana
+return another
+player if
+or if it would leave the
+opponent exiles
+of the next end step or
+of all
+next end step or if it
+loyalty counter
+lifelink damage
+leave the battlefield unearth only as
+its foretell
+it would leave the battlefield unearth
+it into your hand if you
+is 4
+graveyard create
+gains protection
+foretell cost
+end step or if it would
+each nonland
+deals 3 damage to target creature
+deals 2 damage to target creature
+creature you control with a 11
+creature you control to its owners
+creature dealt
+create a 11 white spirit creature
+cost it
+cards put them onto the battlefield
+beginning of your end step you
+battlefield unearth
+battlefield exile
+ability costs
+a goblin
+a 11 white soldier creature token
+11 white spirit creature token with
+11 whenever
+1 you
+you may have this creature enter
+you dont control an army create
+would be dealt to this creature
+with ward
+with either
+whenever this creature is dealt damage
+whenever equipped creature deals combat damage
+were mana of any color to
+vigilance attacking
+turn the
+this enchantment deals 1 damage to
+them on
+than the
+targets a
+target creature cant block this turn
+spend mana as though it were
+return the
+put up
+paying its mana cost put the
+pay the
+on an army you control its
+of each players upkeep that player
+may spend mana as though it
+its also
 if you dont control an army
 human creature
-had no 11 counters on it
-from red
-exile another
+hexproof until
+have target
+gains hexproof
+enters mill
 enchanted creature gets 11 and has
+dont untap
 dont control an army create a
-do put a 11 counter on
-deals 3 damage to target creature
-copies of
+dies exile
+crew 3
+crew 2 tap any number of
+counter on each of up to
 control an army create a 00
-beginning of your end step you
-becomes monstrous
-be destroyed
+cards onto
+blocks this
+beginning of each players upkeep that
 attack with
 army creature
 army create
+andor creatures
 an army you control its also
 an army create a 00 black
-ability costs
-a blood
-6 or
-your turn you may pay 2
-your library you may put it
-your hand face down cast it
-you may pay 2 and exile
-x less
-x is the number of creatures
-with you
-with ward 2 turn it face
+also get
+a second
+a creature you control deals combat
+2 tap any number of creatures
+your library for a creature card
+whenever one or more creatures you
 when an
-ward 2 turn it face up
-up to one other target creature
-until they
-untapped remove
-turn you may pay 2 and
-turn without
+was spent to cast this spell
+until end of turn untap that
+untapped creature
+toxic 1
 top six cards of your library
 top six
-top or
-top of their library until they
-to mill
-time a
-tied for
 this one
+then create
 the top six cards of your
-target creature cant block this turn
-prevent the next 1 damage that
-opponent reveals their hand you choose
-on a later turn for its
-no 11 counters on it return
-later turn for its foretell cost
-it on a later turn for
-it into your hand if you
+the most
+target nonblack
+tap all
+spell you may pay if you
+reveals the top card of their
+putting it
+permanent of
+nonbasic land
+land card from your hand onto
+it had no 11 counters on
 is your
-is tapped
+is the number of cards in
 if you do return this card
+hand draw
+had no 11 counters on it
+gains lifelink until end of turn
+gain trample until end of turn
+flying whenever this creature deals combat
+deals combat damage before creatures without
+deals 1 damage to target creature
+damage to a player create a
+damage it
+copies of
+card from your hand face down
+becomes monstrous
+battlefield unearth only as a sorcery
+battlefield that
+attacks a
+as you cast this spell you
+and vigilance
+and isnt
+an oil
+a creature card with mana value
+a 55
+a 11 counter from this creature
+your library you may put it
+you next
+you may discard a card if
+with 1
+until they
+turn sacrifice
+turn after
+top of their library until they
+top card of your library put
+token first
+to mill
+tied for
+the command
+that would be dealt to you
+since the
+or sorcery card from your graveyard
+of turn activate only as a
+no 11 counters on it return
+mills two
+may discard a card if you
+it isnt
+instant or sorcery card from your
+in addition to their other types
 if it had no 11 counters
+has indestructible
+graveyard that
+gain indestructible
+exiles the
+end of turn activate only as
+enchanted creature doesnt untap during its
+dies if it had no 11
+creature gains haste until end of
+construct artifact
+command zone
+colorless thopter
+choice would
+artifact spell
+and the rest on top of
+and t
+a zombie
+a 11 counter on that creature
+6 or
+11 counters on it return it
+your last
+your hand face down cast it
+you each
+you do put a 11 counter
+x is the number of creatures
+with ward 2 turn it face
+with lesser
+whenever a creature you control deals
+whenever a creature an opponent controls
+ward 2 turn it face up
+under its owners control at the
+turn without
+top or
+token whenever
+three time
+the rest on top of your
+that say destroy dont destroy it
+target tapped
+target creature gets 33 until end
+target creature gains flying until end
+spell draw
+rest on top of your library
+players dealt
+phases out
+opponent reveals their hand you choose
+opponent loses 2 life and you
+one creature
+on a later turn for its
+mana in
+long as seven or more cards
+library you may put it into
+later turn for its foretell cost
+kicked it
+its owners control at the beginning
+it on a later turn for
+into your graveyard and the rest
+in exile
+in all
+if any
 have the
-have t
 hand face down cast it on
 from your hand face down cast
 face down cast it on a
+extra turn
 equipped creature deals combat damage to
-enchantment and
+end of turn activate only once
 during your turn you may pay
 down cast it on a later
 down cast
-dies if it had no 11
+do put a 11 counter on
 deathtouch any
-damage to a player create a
+deathtouch and
+damage to each creature and each
 cycle this
+creatures attack
 creature with ward 2 turn it
 creature deals damage equal to its
-create a 11 white spirit creature
-counter on each of up to
+create a 11 white soldier creature
+cost is
+cost exile
 control no
+chosen name
 cast it on a later turn
-blood token
+card with mana value x or
 blocking or
-b t
-as you cast this spell you
+block or
+auras you
+attacks while
+as seven or more cards are
+as seven
+as long as seven or more
 as a 22 creature with ward
-artifact spell
-artifact and
-and the rest on top of
+artifact is
+andor graveyard
+and blue
+an extra
 a later turn for its foretell
+a card if you do draw
 a 22 creature with ward 2
 22 creature with ward 2 turn
 2 turn it face up any
 2 turn
-11 white spirit creature token with
-11 counters on it return it
-1 attach
-you control a creature with power
-x t
-with lesser
-whenever one or more creatures you
-when this creature enters destroy target
-twice that
-token whenever
-to target attacking or blocking creature
-this creature put a 11 counter
-the rest on top of your
-the rest on the bottom in
-the command
-that say destroy dont destroy it
-target nonblack
-target creature gains flying until end
-since the
-reveal them
-reveal an
-rest on top of your library
-red and
-players dealt
-opponent this
-library you may put it into
-into your graveyard and the rest
-hexproof until
-graveyard that
-gains lifelink until end of turn
-damage to each creature and each
-creature add
-controller loses
-command zone
-cards this
-battlefield that
-auras you
-artifacts with
-artifact is
-andor creatures
-and vigilance
-and blue
-and attacks
-a 11 white soldier creature token
-a 11 counter on that creature
 your library until you reveal a
-your last
-you may spend mana as though
-you may discard a card if
-you each
-would become
-whenever a creature an opponent controls
-when this creature enters target opponent
+you control a creature with power
+when this creature enters destroy target
 venture into
 until end of turn its still
-until end of turn draw a
-turn after
-top card of your library put
-thopter artifact
-this enchantment deals 1 damage to
-this card from your hand face
-then create
+twice that
+to target attacking or blocking creature
+their controllers
+the rest on the bottom in
 the dungeon
-the citys
+that arent
 than your
-target creature gets 33 until end
-spell when
-regenerate target
-pay 2 and exile this card
-or bottom
-one from
-one creature
-of turn activate only as a
-mills two
-may pay 2 and exile this
-may discard a card if you
-long as seven or more cards
-is the number of cards in
-is put into your graveyard from
-in all
-if any
-human soldier
-have target
+target creature card from a graveyard
+step sacrifice
+sacrifice them
+red and
+power 2 or more this vehicle
+player creates
+play it
+opponents cant
+number of other creatures you control
+is tapped
+have trample
+has protection
+graveyard put
 graveyard and the rest on top
 gets 02
-gains hexproof
-gain trample until end of turn
-four cards of your library you
-exiles the
+gain vigilance
+from an
+escape cost
+entered this
 end of turn its still a
-end of turn draw a card
-end of turn activate only as
+do copy
+deals x damage to target creature
+creatures mana
 creature dies if it had no
-creature can deal excess combat damage
-color spend this mana only to
-color spend
-citys blessing
-chosen name
-card with mana value x or
-came under
-become untapped
+cost you
+controller loses
+be blocked by creatures with power
 battlefield from
-attacks for
-as seven or more cards are
-as seven
-as long as seven or more
-as its
-and 2
-all artifacts
-add cc
-a 55
-2 and exile this card from
-you can have a background as
-with three time counters on it
-vehicle enters
+battlefield activate
+artifacts with
+and the rest into your graveyard
+and attacks
+all lands
+add two
+2 or more this vehicle becomes
+you may spend mana as though
+with three 11 counters on it
+when this creature enters target opponent
+when this creature enters create two
+way into
+untapped remove
 untap steps
-turn without paying its mana cost
 toughness is
 to players
-this creature can deal excess combat
+to another
+this card from your hand face
 them into your graveyard and the
-their controllers
-the revealed
+the citys
 the beginning of the end step
-that would be dealt to you
-target tapped
-second commander
-sacrifice any
-rest on the bottom in a
-red dragon
+target legendary
+source of your choice would deal
+sacrifice them at the beginning of
 reach whenever
 put two 11 counters on target
 put any number of them into
 put a land card from your
-power 1
 players in
 player sacrifices a creature of their
-opponent exiles
-oil counters
+player has
+or bottom
 of turn its still a land
+of turn activate only once each
 of them into your graveyard and
 of poison
-lost life
-life t
-it deals 1 damage to any
-have trample
-have a background as a second
-for any
+it didnt
+have hexproof
+from white
 flying if
-extra turn
-end of turn untap that creature
-enchanted creature doesnt untap during its
+exile another
+equipment to
+eldrazi spawn
 die this
-damage instead
-creature gains haste until end of
-cost you
-cost is
+creature its
+creature can deal excess combat damage
 controls that
-construct artifact
+color spend this mana only to
+color spend
+citys blessing
+came under
+blood token
+becomes saddled
+attacks for
+at the beginning of the end
+and when
+and gains first strike until end
+all artifacts
+additional combat
+a land card from your hand
+a blood
+2 then
+11 counter on each of up
+1 attach
+01 colorless
+your graveyard and the rest on
+you can have a background as
+turn without paying its mana cost
+this process
+this creature deals damage equal to
+this creature can deal excess combat
+the revealed
+spells and
+second commander
+sacrifice any
+reveal them
+rest on the bottom in a
+player exile
+or artifact
+of colors
+number of them into your graveyard
+mills three
+lost life
+library andor
+indestructible until end of turn damage
+have defender
+have a background as a second
+get xx
+from target
+end of turn untap that creature
+damage to target attacking or blocking
+damage instead
+creatures of
+creature has base power and toughness
+control draw
 choose a background you can have
 choice of the top or bottom
-cards put them onto the battlefield
-cards at
+cast creature
 can have a background as a
+blue and
 blocked you
-be blocked by creatures with power
+battlefield under its owners control at
 battlefield and
 background you can have a background
 background you
 background as
-at the beginning of the end
+as its
 as enchanted
-andor graveyard
-an extra
-all lands
-additional combat
-add two
-a land card from your hand
+artifact this
+any number of them into your
+and from
 a background you can have a
 a background as a second commander
-2 you
-your graveyard and the rest on
-with three 11 counters on it
-whenever a creature you control deals
+would die this turn exile it
+would become
 when this creature dies draw a
-under its owners control at the
-to hand
-to another
+until end of turn damage and
+turn they
+turn damage and effects that say
+trample at
+token then attach this to it
+token if
+this to
+this creature put a 11 counter
 this creature dies draw a card
+they had
+that were
+than or equal to the number
+than its
 target creature an opponent controls gets
-sticker on
 starting with
-player exile
-player creates
+spell would
+spell when
+spawn creature
+remove one
+put them onto the battlefield tapped
 planeswalker they
-of colors
+or equal to the number of
+one from
+of your end step you may
+of turn damage and effects that
 of an
-of all
-number of them into your graveyard
-mills three
+next cast
 long as defending player controls an
 lifelink damage dealt by this creature
 life when
-land add
-its owners control at the beginning
-it didnt
+last upkeep
+it dies
 is less
-have defender
-has protection
-has indestructible
+in the form of poison counters
 had a
-get xx
-gains protection
-gain vigilance
-exile any
-escape cost
-equip 1 1 attach to target
+golem artifact
+get 20 until end of turn
+end of turn damage and effects
+effect lasts
 dragon you
-deathtouch and
-deals x damage to target creature
 deals 5 damage to target creature
-creatures attack
-creature its
-creature instead
-creature has base power and toughness
+damage to a player put a
+creature token then attach this to
 control get 10 until end of
-control draw
-color t
-any number of them into your
-and when
-a creature you control deals combat
-a card if you do draw
-21 until
-2 discard this card search your
+cards at
+card if you do draw a
+c this
+by only
+become untapped
+artifact and
+and to
+add this
+a human
+a colorless
+6 damage
+2 as
 11 as
-1 attach to target creature you
-1 1 attach to target creature
-your library for a creature card
+1 it
+your starting
 you control get 10 until end
-would die this turn exile it
-when this creature enters create two
 under target
-turn they
 trample this creature can deal excess
-token then attach this to it
-this to
-this creature deals damage equal to
+to players in the form of
 this creature attacks each combat if
-target creature card from a graveyard
-tapped under
-spells and
-spell draw
+them onto the battlefield tapped then
+the form of 11 counters and
+the exiled cards on the bottom
+that was
+tap a
+saddled until
+repeat this
 reach trample
 random from
+put the exiled cards on the
+players in the form of poison
 player reveals the top card of
-player has
+player does
+permanent card from your graveyard to
+own from
 other is
+or discard
+or be
+onto the battlefield from your hand
+of 11 counters and to players
+myojin of
+more poison
+may attach
 its the
 its mutate
-in the form of poison counters
-in its
-hand draw
-get 20 until end of turn
-from white
-entered this
+have vigilance
+green beast
+from your graveyard you may cast
+form of 11 counters and to
+exile any
+end of your next turn you
+echo cost
 each attacking
 doesnt cause this creature to tap
 die this turn exile it instead
-damage to target attacking or blocking
+destroy this
 creatures whenever
-creatures of
-creature token then attach this to
-creature gains indestructible until end of
-create a 11 white soldier creature
-counter would
-colorless thopter
-choice would
+creature instead
+counters and to players in the
+counter that
+controls with
+color when
 cause this
-blue and
-block or
+cards that
+block and
+becomes saddled until end of turn
 attacking doesnt cause this creature to
-and to
-an unblocked
-a creature card with mana value
-6 damage
-5 t
-3 if
-11 counter on each of up
-1 put
-your starting
+and to players in the form
+all permanents
+all nonland
+a charge counter on this artifact
+3 you
+11 counters and to players in
+your upkeep if this came under
+your last upkeep sacrifice it unless
+your hand and the rest into
+your control since the beginning of
 you own they mutate into the
-you next
+you control until end of turn
+with defender
+with an additional 11 counter on
+white angel
+way put
+upkeep sacrifice it unless you pay
+upkeep if this came under your
+until end of turn whenever a
+unless you pay its echo cost
+under your control since the beginning
 under target nonhuman creature you own
 under it
-trample at
 top plus all abilities from under
 top plus
+top in
 tokens equal
 tokens at
-token if
-to players in the form of
 this spell for its mutate cost
-this process
+this creature enters target player may
 this creature at the beginning of
+this came under your control since
+this came
 they mutate into the creature on
 they mutate
+then draws
+their hand from their library then
 their choice of the top or
-the form of 11 counters and
-the exiled cards on the bottom
 the creature on top plus all
-that was
-than its
+the beginning of your last upkeep
 target nonhuman creature you own they
-target legendary
-step sacrifice
+tapped under
+sticker on
+step create
 spell for its mutate cost put
-sacrifice them
+since the beginning of your last
+search your library andor graveyard for
 revealed cards
-put the exiled cards on the
 put it over or under target
+put into your graveyard from anywhere
+power 1 or more this vehicle
 plus all abilities from under it
 plus all
-players in the form of poison
-play it
-permanent card from your graveyard to
 own they mutate into the creature
 own they
 over or under target nonhuman creature
@@ -3478,523 +3513,488 @@ over or
 other attacking
 or under target nonhuman creature you
 or under
-or discard
-opponents cant
-opponent loses 2 life and you
-onto the battlefield from your hand
+or be blocked by only creatures
+opponent gains
+opponent create
 on top plus all abilities from
 on their choice of the top
 on their
-of 11 counters and to players
+of your upkeep if this came
+of your next turn you may
+of your last upkeep sacrifice it
 nonhuman creature you own they mutate
 mutate into the creature on top
 mutate into
 mutate cost put it over or
 mutate cost
+milled this
+may put a 11 counter on
 may gain
-may attach
 mana of any color to cast
-library andor
-last upkeep
+life put a 11 counter on
+last upkeep sacrifice it unless you
 its mutate cost put it over
+its echo
+it unless you pay its echo
 it over or under target nonhuman
 it over
-it dies
+is this
+into their hand from their library
 into the creature on top plus
-have hexproof
+in its
+if x
+if this came under your control
+hand from their library then shuffle
+hand and the rest into your
 from under
-from target
-form of 11 counters and to
 for its mutate cost put it
+equipment auras
+equip 1 attach to target creature
 enters surveil
 enchant player
-echo cost
 doctors companion
-do target
-destroy this
-damage to a player put a
+deals 4 damage to any target
 creatures its
 creature you own they mutate into
 creature on top plus all abilities
-counters and to players in the
-cost put it over or under
-controls with
-controller creates
-cast this spell for its mutate
-block and
-battlefield under its owners control at
-battlefield activate
-attacker you
-and to players in the form
-and from
-an amount
-additional time
-a colorless
-2 when
-2 then
-2 2 discard this card search
-11 counters and to players in
-you control to hand put this
-would become untapped remove one from
-with defender
-with a stun counter would become
-when this creature enters you get
-until end of turn whenever a
-untapped remove one from it instead
-unblocked attacker you control to hand
-unblocked attacker
-two commanders if the other is
-top in
-to hand put this card onto
-time for its morph cost when
-this creature enters target player may
-this card onto the battlefield from
-this card draw a card when
-then puts
-their hand from their library then
-the doctor
-that were
-than or equal to the number
-stun counter would become untapped remove
-step create
-source of your choice would deal
-sacrifice them at the beginning of
-return an unblocked attacker you control
-remove three
-put this card onto the battlefield
-player does
-permanent with a stun counter would
-or equal to the number of
-opponent mills
-of your end step you may
-morph cost when this creature is
-more poison
-may put a 11 counter on
-may copy
-land types
-its morph cost when this creature
-into their hand from their library
-if x
-if the other is the doctor
-if one
-if a permanent with a stun
-have vigilance
-have two commanders if the other
-hand put this card onto the
-hand from their library then shuffle
-golem artifact
-gets 01
-for its morph cost when this
-five or
-equipment auras
-enters attach
-end of your next turn you
-doctors companion you can have two
-creature except
+creature isnt
 creature enters target player may put
-counter would become untapped remove one
-control to hand put this card
-companion you can have two commanders
-commanders if the other is the
-choose a nonland card from it
-cast creature
-cards from your graveyard to the
-card onto the battlefield from your
-card if you do draw a
-card from your hand you may
-can have two commanders if the
-become untapped remove one from it
-attacker you control to hand put
-artifact this
-are modifications
-and gains first strike until end
-and counters
-an unblocked attacker you control to
-a stun counter would become untapped
-a permanent with a stun counter
-a creature you control attacks alone
-a charge counter on this artifact
-3 attach
-1 and
-your upkeep if this came under
-your last upkeep sacrifice it unless
-your control since the beginning of
-you control enters this creature gets
-with an additional 11 counter on
-whenever this creature or another creature
-whenever this creature deals damage to
-way put
-way into
-upkeep sacrifice it unless you pay
-upkeep if this came under your
-unless you pay its echo cost
-under your control since the beginning
-two of
-turn activate only once each turn
-this card from your hand you
-this came under your control since
-this came
-they had
-then draws
-them onto the battlefield tapped then
-the beginning of your last upkeep
-the battlefield from your hand tapped
-that share a color with it
-tap a
-spell would
-since the beginning of your last
-repeat this
-puts the
-put that many 11 counters on
-opponent gains
-of your upkeep if this came
-of your next turn you may
-of your last upkeep sacrifice it
-of their library into their graveyard
-of another
-less to cast for each creature
-last upkeep sacrifice it unless you
-its echo
-its an artifact with 1 t
-it unless you pay its echo
-indestructible until end of turn damage
-in exile
-in addition to paying its other
-if this came under your control
-have flying
-hand target
-hand tapped
-from your hand you may pay
-from your hand tapped and attacking
-from your graveyard you may cast
-exiled cards on the bottom in
-exile from
-equip 4
-draw a card when you cycle
-down for
-crew 1
-creatures mana
-creature exile
-counter that
+cost put it over or under
 controls more
+controller creates
 control since the beginning of your
 control since
 combination of
-cards that
-cards on the bottom in a
-card when you cycle this card
-card for as long as it
-card draw a card when you
+cast this spell for its mutate
+cards from your graveyard to the
+can block or be blocked by
 came under your control since the
-by only
-black creature
+block or be blocked by only
 beginning of your last upkeep sacrifice
-battlefield from your hand tapped and
-attach it to target creature you
-as you cast this spell when
-artifact enchantment
-are declared
-and the rest into your graveyard
-and indestructible until end of turn
-all permanents
-all nonland
-addition to paying its other costs
-a human
-a creature with power 4 or
-a card when you cycle this
-your next turn you may play
-your graveyard to the battlefield with
-you control and counters are modifications
-when this creature enters each opponent
-ward 1
-vigilance attacking doesnt cause this creature
+be blocked by only creatures with
+are modifications
+another artifact
+and counters
+an amount
+additional time
+a land you control enters you
+1 or more this vehicle becomes
+1 attach to target creature you
+you control enters this creature gets
+wolf creature
+while saddled
+when this creature enters you get
 value to
-until end of turn damage and
-two 11 counters on target creature
-turn damage and effects that say
-token at
-this phase
-this deals to a creature is
-this card is every creature type
-thats a copy of that creature
-thats a copy of it except
-spell becomes
-shuffle and
-search your library andor graveyard for
-put them onto the battlefield tapped
-play a
-or be
+until end of turn saddle only
+two commanders if the other is
+turn copy
+turn activate only once each turn
+to the number of creatures you
+time for its morph cost when
+this turn put a 11 counter
+this mount becomes saddled until end
+this mount
+this card onto the battlefield from
+then puts
+the doctor
+that share a color with it
+tap any number of other creatures
+saddled until end of turn saddle
+saddle only
+quest counter
+put this card onto the battlefield
+pay when
+other creatures you control with total
+or more this mount becomes saddled
+opponent mills
 on another
-of your end step if a
-of turn damage and effects that
-of damage this deals to a
-mana cost put the exiled cards
-life put a 11 counter on
-level up
-its mana cost put the exiled
-is this
+of turn saddle only as a
+of their library into their graveyard
+of other creatures you control with
+of creature cards in your graveyard
+mount becomes saddled until end of
+mount becomes
+morph cost when this creature is
+more this mount becomes saddled until
+may copy
+land types
+its morph cost when this creature
+if the other is the doctor
+if one
+have two commanders if the other
+have flying
 gets 44 until end of turn
-g this
+gets 01
+for its morph cost when this
+five or
+exiled cards on the bottom in
+enters attach
+end of turn saddle only as
+doctors companion you can have two
+creatures you control get 11 and
+creature prevent
+creature except
+creature card with mana value x
+counter would
+copy this
+control would
+companion you can have two commanders
+commanders if the other is the
+choose a nonland card from it
+cards on the bottom in a
+card onto the battlefield from your
+card from your hand you may
+card for as long as it
+card create
+can have two commanders if the
+artifact enchantment
+any number of other creatures you
+any combination
+angel creature
+and indestructible until end of turn
+activate an
+a creature you control attacks alone
+1 tap any number of creatures
+1 put a 11 counter on
+your next turn you may play
+you control deals damage equal to
+you control and counters are modifications
+with three time counters on it
+whenever this creature or another creature
+whenever this creature deals damage to
+two of
+two cards of your library put
+two 11 counters on target creature
+token sacrifice
+this phase
+this card is every creature type
+this card from your hand you
+the color of your choice until
+the battlefield from your hand tapped
+thats a copy of it except
+that card onto the battlefield then
+target nonland permanent an opponent controls
+step activate
+shuffle and
+reveal this
+puts the
+put that many 11 counters on
+oil counters
+of another
+number of creature cards in your
+mills a
+mana was
+mana cost put the exiled cards
+life equal to its mana value
+library exile
+its mana cost put the exiled
+in addition to paying its other
+has three
+hand tapped
+from your hand you may pay
+from your hand tapped and attacking
+exile from
+equipment auras you control and counters
+enchanted creatures
+draw a card when you cycle
+down for
+doesnt untap during your untap step
+do target
+deals 6
+crew 1 tap any number of
+creatures you control deal combat damage
+creature exile
+creature blocking
+cost put the exiled cards on
+color of your choice until end
+cards from your graveyard you may
+card when you cycle this card
+blocked by only creatures with shadow
+black creature
+battlefield from your hand tapped and
+auras you control and counters are
+attach it to target creature you
+are declared
+and haste until end of turn
+addition to paying its other costs
+add cc
+a creature with power 4 or
+a creature card from your graveyard
+a card when you cycle this
+7 you
+2 when
+your turn you may pay and
+your library andor graveyard for a
+your graveyard to the battlefield with
+your graveyard for its escape cost
+you may put a 11 counter
+you control with total power 3
+you cast it from your hand
+would become untapped remove one from
+would be put into your graveyard
+with total power 3 or more
+with a stun counter would become
+where x is this creatures power
+when this creature enters each opponent
+vigilance attacking doesnt cause this creature
+untapped remove one from it instead
+turn to
+total power 3 or more this
+token put
+token at
+time this
+time each
+thopter artifact creature token with flying
+this deals to a creature is
+there is an additional combat phase
+the next end step activate only
+thats a copy of that creature
+stun counter would become untapped remove
+spell becomes
+six cards of your library you
+put into your graveyard from the
+player with
+play a
+planeswalker card
+permanent with a stun counter would
+other cards from your graveyard you
+or untap
+of your end step if a
+of the next end step activate
+of damage this deals to a
+more counters
+may pay if you do create
+loyalty abilities
+loses the
+level up
+its escape
+its activated abilities cant be activated
+its activated
+it where
+it put a 11 counter on
+into your hand and the other
+into your graveyard from the battlefield
+instant andor
+if you cast it from your
+if a permanent with a stun
+gains menace
+from your graveyard for its escape
 flying this creature cant be blocked
 exile one
-equipment auras you control and counters
 enters creatures
-end of turn damage and effects
 enchant artifact
 each get
 discarded this
-deals 6
 damage this deals to a creature
-creature blocking
+creatures to
+creatures target
+creature equal
+creature add
 counters whenever
-costs of
-cost put the exiled cards on
-cost exile
-collect evidence
+counter would become untapped remove one
+control with total power 3 or
+combat on your turn if you
+chosen this
 changeling this card is every creature
 changeling this
+card was
 card put it into your hand
+by the
 beginning of your upkeep if you
-auras you control and counters are
+become untapped remove one from it
 attacks each combat if able and
 attacks defending
+as defending player controls a swamp
 anywhere other
-any combination
 any amount of damage this deals
-and types
+andor sorcery
+an additional 11 counter on it
 amount of damage this deals to
 amass orcs
-activate an
-3 attach to target creature you
+a stun counter would become untapped
+a permanent with a stun counter
+a historic
+30 until
+3 tap
 22 as
-2 create
-you may put a 11 counter
-x where x is the number
-wolf creature
-white creature
-turn the
-turn sacrifice
-to the number of creatures you
-time each
+2 target
+your library for a card put
+you may pay and exile this
+you do return this card from
+white creatures
+way create
+ward 1
+turn you may pay and exile
+token named
+this creature gains first strike until
 this creature enters you may return
 this creature enters if you control
-there is an additional combat phase
+then attach this to it equipped
 the damage
-that card onto the battlefield then
-target nonland permanent an opponent controls
-spirit or
+thats tapped and attacking that player
+that would be dealt to target
+targets this
+target nonland permanent to its owners
+target creature until end of turn
 sorcery on a later turn without
 sorcery on
-put into your graveyard from anywhere
-player with
-planeswalker card
-phases out
-own from
-or be blocked by only creatures
+second card
+put there
+plus 1
+player instead
+pay and exile this card from
 on a later turn without paying
-of creature cards in your graveyard
 of counters
+number of them on the bottom
+nonland permanent to its owners hand
+no maximum
+most life
+may pay and exile this card
+life where x is the number
+life add
 later turn without paying its mana
+lasts indefinitely
 its owner
-it where
+it that player discards that card
 it as a sorcery on a
+is on
 is blocking
-green beast
+if damage
+get e
+from it that player discards that
 flying deathtouch
+equip 4
 equal to its power to the
 entered the
-end of turn activate only once
-effect lasts
+draws two
 dont put
+do return this card from your
+do discard
 deathtouch when
 deathtouch any amount of damage this
-creatures you control get 11 and
 creatures combat
-creature prevent
-creature isnt
+creature activate only as a sorcery
 counter on it at the beginning
-copy this
-control would
+control thats
+control attack
 coin if
 cast it as a sorcery on
-can block or be blocked by
-c 2
 blocks or becomes blocked it gets
-blocked by only creatures with shadow
-block or be blocked by only
-beyond the
-be blocked by only creatures with
+become a
+aura spell
 attack a
+attach this to it equipped creature
+at the beginning of each opponents
+as you cast this spell when
 as a sorcery on a later
-and haste until end of turn
+artifact in addition to its other
+artifact in
+are copies
+any number of them on the
 and cast
-ally you
+an extra turn after this one
 addition to its other types and
 a sorcery on a later turn
 a later turn without paying its
 a land you control enters this
-a historic
-30 until
-3 3 attach to target creature
-your library for a card put
+10 for
+1 plus
+01 until
 you may choose not to untap
-you control deals damage equal to
 you cast your second spell each
-you cast this spell when this
-would be put into your graveyard
-white angel
-where x is this creatures power
 whenever you cast your second spell
-two cards of your library put
+two basic
+turn as
+token dies
 to untap
-this turn put a 11 counter
-this land search your library for
+this mana only to cast a
 this creature gets 11 for each
-this creature gains first strike until
 this cards
 they remain
-then attach this to it equipped
+they put
 them into your hand then shuffle
 the tokens
-the bottom of its owners library
-targets this
-target creature until end of turn
-t search
-t draw a card then discard
-six cards of your library you
-second card
-sacrifice this land search your library
+the targets
+the rest on top in any
+the first room or advance to
+that costs
+target creature you control gets 10
+tap or
+strike vigilance
+spirit or
+spells from the top of your
+room or advance to the next
+room or
 rogue warrior
-remove an
+rest on top in any order
+removed this
+remove it
+remove a 11 counter from this
 puts that
 puts it
 put them into your hand then
-otherwise put a 11 counter on
-or untap
-one if
-on the bottom of its owners
-of your library put that card
-of combat on your turn you
-number of them on the bottom
-number of creature cards in your
-not to
-next cast
-more counters
-mana was
-life equal to its mana value
-lasts indefinitely
-lands and
-land search your library for a
-it that player discards that card
-is on
-if damage
-has three
-gain indestructible
-from it that player discards that
-fights target
-doesnt untap during your untap step
-do discard
-destroy each
-deals 4 damage to any target
-creatures to
-creatures target
-creature mutates
-creature equal
-creature card with mana value x
-creature blocks or becomes blocked it
-control attack
-combat on your turn you may
-combat on your turn if you
-colorless mana
-cleric rogue
-chosen this
-choose not
-cast your second spell each turn
-cards from your graveyard you may
-card of your library put that
-by the
-become a
-aura spell
-attacks target
-attach this to it equipped creature
-at the beginning of each opponents
-as defending player controls an island
-as defending player controls a swamp
-artifact put
-are copies
-are blocking
-any number of them on the
-another permanent
-an additional 11 counter on it
-2 target
-10 for
-01 until
-your library where x is the
-your library andor graveyard for a
-your graveyard for its escape cost
-you do return this card from
-you choose a nonland card from
-with toughness
-white creatures
-way create
-up any time for its disguise
-two basic
-turn copy
-turn as
-time this
-this mana only to cast a
-this card from your graveyard by
-this card face down for 3
-the rest on top in any
-the first room or advance to
-thats tapped and attacking that player
-that would be dealt to target
-that creatures combat damage not its
-that costs
-that color
-that card into your hand if
-target nonland permanent to its owners
-target creature you control gets 10
-step activate
-spells from the top of your
-snow source
-room or advance to the next
-room or
-rest on top in any order
-put into your graveyard from the
 put any number of them on
-plus 1
+put a number of 11 counters
 player equal
-pays 3
-other cards from your graveyard you
-or arcane
+otherwise put a 11 counter on
 or advance to the next room
 or advance
-opponent create
-of turn activate only once each
-not its controller among any of
-not its
-nonland permanent to its owners hand
+one if
+of your library put that card
+of your choice would deal damage
+of combat on your turn you
+not to
 next room
-most life
-mills a
-milled this
-life where x is the number
-lands than
-land draw
-its escape
-its disguise
-its controller among any of the
-it 1
-isnt blocked
-into your hand and the other
-into your graveyard from the battlefield
-instant andor
-indestructible counter
+merfolk you
+lands and
 hand at the beginning of the
-get xx until end of turn
-from your graveyard for its escape
-for the rest of the game
-for artifacts
-for 3 as a 22 creature
 first room or advance to the
+first room
+fights target
+exile a nonland card that costs
+equal to that cards mana value
+enter the first room or advance
+enchantment to
+destroy each
+damage equal to the number of
+creature until end of turn untap
+creature mutates
+creature cards from your graveyard to
+creature blocks or becomes blocked it
+counters on it where x is
+costs less
+controls dies
+control deals damage equal to its
+combat on your turn you may
+colorless thopter artifact creature token with
+color add
+cleric rogue
+choose not
+cast your second spell each turn
+card of your library put that
+card draw
+beyond the
+before it
+battlefield create
+attacks target
+as though it didnt have defender
+as defending player controls an island
+are blocking
+and the rest on top in
+and gains flying until end of
+advance to
+a nonland card that costs less
+your library where x is the
+you exile a nonland card that
+you choose a nonland card from
+x where x is the number
+x less
+with toughness
+whenever a player casts a spell
+when this aura enters tap enchanted
+was put
+up any time for its disguise
+until end of turn it can
+turn except
+token this
+this card from your graveyard by
